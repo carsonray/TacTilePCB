@@ -1,0 +1,15 @@
+(footprint "Jumper_Connect" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "TacTile-upper.kicad_sch")
+  (property "Sheetname" "")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -1.25 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 7e0eb829-8e87-4c0a-84cd-cb6301d516d7)
+  )
+  (fp_text value "Jumper_Connect" (at 0.25 -7 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0e847b18-e9a1-47db-b2c9-f230023a6a8a)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 1 1) (drill 0.4) (layers "*.Cu" "*.Mask") (tstamp 82527608-ce23-4898-b814-5ba4103d35e7))
+)
