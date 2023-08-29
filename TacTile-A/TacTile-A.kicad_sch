@@ -4833,7 +4833,7 @@
     )
     (pin "1" (uuid b49d0b85-9777-427b-938f-1795cb6fa425))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG045") (unit 1)
         )
@@ -4858,7 +4858,7 @@
     )
     (pin "1" (uuid d5ff0abe-0c3b-450a-a599-40ae51ddf7d9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG089") (unit 1)
         )
@@ -4883,7 +4883,7 @@
     )
     (pin "1" (uuid e7515a91-1cab-4ec6-90e8-411ba7302f06))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0450") (unit 1)
         )
@@ -4908,7 +4908,7 @@
     )
     (pin "1" (uuid 900eb234-f72c-4182-9b3f-589cc5d674b1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0440") (unit 1)
         )
@@ -4933,7 +4933,7 @@
     )
     (pin "1" (uuid 1459baea-127f-4860-8a07-fbe4014a406a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0470") (unit 1)
         )
@@ -4958,7 +4958,7 @@
     )
     (pin "1" (uuid 21a6a630-3362-4423-85e0-2b75746b96d1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0168") (unit 1)
         )
@@ -4983,7 +4983,7 @@
     )
     (pin "1" (uuid 50490368-06b8-462b-b29b-d30d0658cfab))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0385") (unit 1)
         )
@@ -5023,7 +5023,7 @@
     (pin "8" (uuid 6b03ec78-ab7e-42d9-a497-8af0c6fb6b69))
     (pin "9" (uuid 300d3224-57c3-40fe-ac1b-439498a0e3dd))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L9") (unit 1)
         )
@@ -5048,7 +5048,7 @@
     )
     (pin "1" (uuid 7ac36178-4dc8-49a2-a9b4-5359bde704d2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0403") (unit 1)
         )
@@ -5073,7 +5073,7 @@
     )
     (pin "1" (uuid 562a2790-9b1d-4733-8f46-a6d96e1f92aa))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0124") (unit 1)
         )
@@ -5098,7 +5098,7 @@
     )
     (pin "1" (uuid f34a687b-8c51-4480-986b-1b98098a66d2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0446") (unit 1)
         )
@@ -5123,7 +5123,7 @@
     )
     (pin "1" (uuid 32a1374a-87bf-49d1-83bd-2b51dfba027e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG066") (unit 1)
         )
@@ -5148,7 +5148,7 @@
     )
     (pin "1" (uuid b3aea75e-30c4-4011-bfad-8dba223504ea))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0203") (unit 1)
         )
@@ -5173,7 +5173,7 @@
     )
     (pin "1" (uuid 2dfed8d0-9526-4ca5-a477-8e751db1a360))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0432") (unit 1)
         )
@@ -5198,7 +5198,7 @@
     )
     (pin "1" (uuid 1edfa8bc-ad69-4596-971c-f6c7c7c63189))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0341") (unit 1)
         )
@@ -5223,7 +5223,7 @@
     )
     (pin "1" (uuid 117a1a2a-b753-4f64-8c52-b226b3ef4dfa))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0249") (unit 1)
         )
@@ -5248,7 +5248,7 @@
     )
     (pin "1" (uuid 745611d6-fd54-4929-927f-ba21c4509644))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0395") (unit 1)
         )
@@ -5273,7 +5273,7 @@
     )
     (pin "1" (uuid ffe9e5e8-aa62-4fe5-b018-e2d16d809cce))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0338") (unit 1)
         )
@@ -5298,7 +5298,7 @@
     )
     (pin "1" (uuid ac9735f6-a705-461b-9f16-750e692ed89f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0512") (unit 1)
         )
@@ -5323,7 +5323,7 @@
     )
     (pin "1" (uuid accda9d4-5759-4989-b120-c236e740293b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0196") (unit 1)
         )
@@ -5348,7 +5348,7 @@
     )
     (pin "1" (uuid dffd9957-ddb6-4b57-a110-4ab25bff3b11))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0247") (unit 1)
         )
@@ -5373,7 +5373,7 @@
     )
     (pin "1" (uuid 3f2e0b0d-ed4c-4800-bb27-f1441691c967))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0337") (unit 1)
         )
@@ -5398,7 +5398,7 @@
     )
     (pin "1" (uuid 171f65ed-bf9c-4a3c-8770-d96e43b3a72a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG057") (unit 1)
         )
@@ -5423,7 +5423,7 @@
     )
     (pin "1" (uuid ded1c91f-3fae-472a-b691-1af17978c995))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG055") (unit 1)
         )
@@ -5448,7 +5448,7 @@
     )
     (pin "1" (uuid a85e08f6-6a54-43bb-95a2-691bf0ac22e6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0131") (unit 1)
         )
@@ -5488,7 +5488,7 @@
     (pin "8" (uuid 35d1fa6f-eb7a-4800-b6b8-278a9f628802))
     (pin "9" (uuid 366a0c6d-dc0c-49ef-9c9d-dedbc02ecf77))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L61") (unit 1)
         )
@@ -5513,7 +5513,7 @@
     )
     (pin "1" (uuid 3b3becf0-44ef-45d3-b8a2-2c9e8bca6507))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG049") (unit 1)
         )
@@ -5538,7 +5538,7 @@
     )
     (pin "1" (uuid 356a720d-7673-4bd5-af25-72a62948bee3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0152") (unit 1)
         )
@@ -5563,7 +5563,7 @@
     )
     (pin "1" (uuid 7e520a7d-7e9d-4fb5-977e-c4cbdcc9ecac))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0274") (unit 1)
         )
@@ -5588,7 +5588,7 @@
     )
     (pin "1" (uuid c722fd57-2d12-4b72-b002-7e7246f57189))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP12") (unit 1)
         )
@@ -5613,7 +5613,7 @@
     )
     (pin "1" (uuid c05442c3-118d-49ee-be74-0977137b0afe))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG033") (unit 1)
         )
@@ -5638,7 +5638,7 @@
     )
     (pin "1" (uuid 1261480e-e04b-407e-b778-03b762ea6ef8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0345") (unit 1)
         )
@@ -5663,7 +5663,7 @@
     )
     (pin "1" (uuid 376dd6aa-4830-443f-b844-006f0129c3c1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0208") (unit 1)
         )
@@ -5688,7 +5688,7 @@
     )
     (pin "1" (uuid 67078f25-b349-4de5-b7a2-ad8c1c1a697f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0324") (unit 1)
         )
@@ -5713,7 +5713,7 @@
     )
     (pin "1" (uuid 985f5525-20ca-4a41-aec6-38327d8d8aa8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG032") (unit 1)
         )
@@ -5738,7 +5738,7 @@
     )
     (pin "1" (uuid 29d34b49-3d31-4b4f-bc74-fe50a0a567af))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0460") (unit 1)
         )
@@ -5763,7 +5763,7 @@
     )
     (pin "1" (uuid 38751310-36ad-4021-9ab7-1b757c481dfc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0182") (unit 1)
         )
@@ -5788,7 +5788,7 @@
     )
     (pin "1" (uuid c9381cc1-60ab-427f-895a-5bf070f48e77))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG011") (unit 1)
         )
@@ -5821,7 +5821,7 @@
     (pin "8" (uuid 205c889a-e66a-409c-83d2-f7ae84eb54e8))
     (pin "9" (uuid d0c89032-9bce-4bdf-baef-e2c722e68a44))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U12") (unit 1)
         )
@@ -5846,7 +5846,7 @@
     )
     (pin "1" (uuid f068f540-859a-45e1-b2c6-095f26a66b4e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0328") (unit 1)
         )
@@ -5871,7 +5871,7 @@
     )
     (pin "1" (uuid c1d742ef-8486-4df2-a1e4-f380cfa7086c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0254") (unit 1)
         )
@@ -5911,7 +5911,7 @@
     (pin "8" (uuid f85e3988-2fe3-4485-bdd3-78fb6f33cd07))
     (pin "9" (uuid ca1d7896-d5ca-4d72-9c0f-f999c12f02a4))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L34") (unit 1)
         )
@@ -5936,7 +5936,7 @@
     )
     (pin "1" (uuid 92a83b3c-440a-49a5-86e1-847bce5486af))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0282") (unit 1)
         )
@@ -5961,7 +5961,7 @@
     )
     (pin "1" (uuid 90537afb-4dc1-4a50-a2f3-7483d89bf9af))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG02") (unit 1)
         )
@@ -5994,7 +5994,7 @@
     (pin "8" (uuid 5ceb93d8-8807-4428-a52e-86c78357b0e7))
     (pin "9" (uuid cd265019-3755-4ab0-8db6-abf29f880b51))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U4") (unit 1)
         )
@@ -6019,7 +6019,7 @@
     )
     (pin "1" (uuid df7ce932-97b1-446a-b52c-6bfb2675f111))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0114") (unit 1)
         )
@@ -6044,7 +6044,7 @@
     )
     (pin "1" (uuid 16896c3e-c055-4460-9e8e-038a6aa38f3e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0286") (unit 1)
         )
@@ -6069,7 +6069,7 @@
     )
     (pin "1" (uuid c159e782-7306-4b0b-ab3c-880f86aa51e5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0218") (unit 1)
         )
@@ -6094,7 +6094,7 @@
     )
     (pin "1" (uuid 22d1e65c-e208-4ca0-b7d7-cf44b4518e55))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0210") (unit 1)
         )
@@ -6119,7 +6119,7 @@
     )
     (pin "1" (uuid 4089d82b-da34-40ae-9ab1-b89c469b94c9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0419") (unit 1)
         )
@@ -6144,7 +6144,7 @@
     )
     (pin "1" (uuid e17bcab5-4a8d-4948-9798-1cdc853744f7))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0161") (unit 1)
         )
@@ -6169,7 +6169,7 @@
     )
     (pin "1" (uuid 07c64178-e025-4241-a84e-6aa2dfaafc9a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0112") (unit 1)
         )
@@ -6194,7 +6194,7 @@
     )
     (pin "1" (uuid 73a0aca8-91ea-40e9-a8dc-fe31317603a9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0325") (unit 1)
         )
@@ -6219,7 +6219,7 @@
     )
     (pin "1" (uuid e00f7ea5-1f2a-4032-af4b-af00c35e7cff))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG050") (unit 1)
         )
@@ -6244,7 +6244,7 @@
     )
     (pin "1" (uuid b2fdb556-0180-41db-9582-93dc7ef0b9bd))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0469") (unit 1)
         )
@@ -6284,7 +6284,7 @@
     (pin "8" (uuid 354b2201-b81b-46ac-82c3-2305a04fe0a1))
     (pin "9" (uuid 1fc08790-6d95-4363-b161-fbc88305891b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L60") (unit 1)
         )
@@ -6309,7 +6309,7 @@
     )
     (pin "1" (uuid c5a151d4-80d4-4fcb-9882-e817e301f9d6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0229") (unit 1)
         )
@@ -6349,7 +6349,7 @@
     (pin "8" (uuid 033fa651-a3bf-4e6b-b390-0a2fd7116640))
     (pin "9" (uuid ceb79c5f-51a2-4faf-a489-6145b4f877cf))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L12") (unit 1)
         )
@@ -6374,7 +6374,7 @@
     )
     (pin "1" (uuid ca1d2e15-5d34-48f2-9b49-200f0974e7ec))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0486") (unit 1)
         )
@@ -6399,7 +6399,7 @@
     )
     (pin "1" (uuid 7a677899-1cba-46d2-aa53-2e344ff4321c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0313") (unit 1)
         )
@@ -6424,7 +6424,7 @@
     )
     (pin "1" (uuid 177ab4c7-de26-4131-915a-63f0f66d1e3e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0167") (unit 1)
         )
@@ -6464,7 +6464,7 @@
     (pin "8" (uuid baf946a2-4549-40ac-94e8-22299c85857e))
     (pin "9" (uuid 4c2ec90b-0d3b-429f-9afe-56b471eafc50))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L18") (unit 1)
         )
@@ -6489,7 +6489,7 @@
     )
     (pin "1" (uuid 4cc8682d-7679-44e9-90e8-47e01d1f5397))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP11") (unit 1)
         )
@@ -6514,7 +6514,7 @@
     )
     (pin "1" (uuid 5e3b9471-de5a-41a6-a1ae-a37ff5db0fd0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0433") (unit 1)
         )
@@ -6539,7 +6539,7 @@
     )
     (pin "1" (uuid a1079e17-eb14-47d2-8a96-29dfdcce4d15))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG018") (unit 1)
         )
@@ -6579,7 +6579,7 @@
     (pin "8" (uuid 18b18977-bf05-4313-937e-701325f4dcbd))
     (pin "9" (uuid bdc80c6f-75b8-4214-9689-49a62510d39e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L53") (unit 1)
         )
@@ -6619,7 +6619,7 @@
     (pin "8" (uuid a0754a7b-8019-490e-896f-ad0b977db700))
     (pin "9" (uuid de3517d6-6e3a-4338-b6c3-80d309b4cd70))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L24") (unit 1)
         )
@@ -6644,7 +6644,7 @@
     )
     (pin "1" (uuid 2419d232-f128-4244-8c58-f99123472cdc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0445") (unit 1)
         )
@@ -6669,7 +6669,7 @@
     )
     (pin "1" (uuid c929144b-fc3c-4f9d-9cde-6a9757af28e1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0119") (unit 1)
         )
@@ -6694,7 +6694,7 @@
     )
     (pin "1" (uuid 5a272129-f7ad-4544-a60b-f64d34804bfb))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0453") (unit 1)
         )
@@ -6719,7 +6719,7 @@
     )
     (pin "1" (uuid f06aa126-72ec-4512-ba42-7066ec155a98))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0362") (unit 1)
         )
@@ -6752,7 +6752,7 @@
     (pin "8" (uuid fbe8a209-5e4f-4ecc-8133-35f13ea7ff17))
     (pin "9" (uuid 19d44d69-f1bc-4cd6-a01c-12c78314e391))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U8") (unit 1)
         )
@@ -6777,7 +6777,7 @@
     )
     (pin "1" (uuid 5708c935-8f75-4e79-9fa6-6b52a902fc7b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0312") (unit 1)
         )
@@ -6817,7 +6817,7 @@
     (pin "8" (uuid 222f4539-4d53-4bdb-8cf4-44ea3b643303))
     (pin "9" (uuid 65a93ff1-f1ae-4db3-96a2-417d92bdb4bf))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L40") (unit 1)
         )
@@ -6842,7 +6842,7 @@
     )
     (pin "1" (uuid b5e8f1e5-b4fb-47d5-978d-ddb82d0a5012))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0316") (unit 1)
         )
@@ -6875,7 +6875,7 @@
     (pin "8" (uuid 0946c72c-94a1-4bcb-8150-b53eaccaaa65))
     (pin "9" (uuid bb388c59-af86-4ea3-a253-4391b578e802))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U13") (unit 1)
         )
@@ -6900,7 +6900,7 @@
     )
     (pin "1" (uuid ab19266b-f2fc-499b-b944-e2fdf27aa6dd))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0101") (unit 1)
         )
@@ -6925,7 +6925,7 @@
     )
     (pin "1" (uuid 00a57de6-2ee7-490b-903c-8fbe73369cfe))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0454") (unit 1)
         )
@@ -6950,7 +6950,7 @@
     )
     (pin "1" (uuid 6af5cceb-450c-4d26-9fd4-c49ff1223fd3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0159") (unit 1)
         )
@@ -6975,7 +6975,7 @@
     )
     (pin "1" (uuid 1492cfcd-a5e4-43b2-816b-9ed8e8682836))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0355") (unit 1)
         )
@@ -7000,7 +7000,7 @@
     )
     (pin "1" (uuid 36c63fd6-73a9-4a29-bde2-1519b7e78995))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0258") (unit 1)
         )
@@ -7025,7 +7025,7 @@
     )
     (pin "1" (uuid 428102cf-dee3-4fd8-a481-a23474cb3cdb))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0435") (unit 1)
         )
@@ -7050,7 +7050,7 @@
     )
     (pin "1" (uuid 53517a6e-23cb-46f6-8bb9-da5664a22ba0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0326") (unit 1)
         )
@@ -7075,7 +7075,7 @@
     )
     (pin "1" (uuid 2a3cbf58-2b9c-4e92-bf1d-56d61bf6c2b6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0349") (unit 1)
         )
@@ -7100,7 +7100,7 @@
     )
     (pin "1" (uuid e47246d8-7756-439a-bb06-7bf320749732))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0472") (unit 1)
         )
@@ -7125,7 +7125,7 @@
     )
     (pin "1" (uuid 7e2bf0ef-dde2-4fea-97ea-ca601825dce2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0138") (unit 1)
         )
@@ -7150,7 +7150,7 @@
     )
     (pin "1" (uuid 9ccedd2a-23e2-4fae-9c9d-b163e3367e70))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0154") (unit 1)
         )
@@ -7175,7 +7175,7 @@
     )
     (pin "1" (uuid b7752339-3265-4582-a98b-608568de733a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG051") (unit 1)
         )
@@ -7208,7 +7208,7 @@
     (pin "8" (uuid fac3ab1e-40fa-4024-9d72-eebc9780fb3b))
     (pin "9" (uuid 5878a4a0-e9c1-4b53-a33c-110ca8f4a543))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U11") (unit 1)
         )
@@ -7233,7 +7233,7 @@
     )
     (pin "1" (uuid 40525e1a-9342-4dcf-9def-cc6459ab3682))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0364") (unit 1)
         )
@@ -7258,7 +7258,7 @@
     )
     (pin "1" (uuid 207c9c73-2eb9-40c1-962c-53213c9eb309))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0336") (unit 1)
         )
@@ -7283,7 +7283,7 @@
     )
     (pin "1" (uuid 408e888a-d978-4d83-959d-f085638668ed))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0130") (unit 1)
         )
@@ -7308,7 +7308,7 @@
     )
     (pin "1" (uuid 38c5091b-d071-4857-8b7e-6dc5a6d42d16))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0238") (unit 1)
         )
@@ -7333,7 +7333,7 @@
     )
     (pin "1" (uuid 86fae6a4-51e2-49d4-9531-9556ae1ed21e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0311") (unit 1)
         )
@@ -7358,7 +7358,7 @@
     )
     (pin "1" (uuid 9d082aa9-62f7-46cd-8745-916680d1c7da))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0174") (unit 1)
         )
@@ -7383,7 +7383,7 @@
     )
     (pin "1" (uuid 4c400bef-16f3-4022-8ea7-03c2369f9ba1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0370") (unit 1)
         )
@@ -7408,7 +7408,7 @@
     )
     (pin "1" (uuid 9b35158b-0f88-4768-94c5-e6d2a1ff9721))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0110") (unit 1)
         )
@@ -7433,7 +7433,7 @@
     )
     (pin "1" (uuid 60b2fcea-0a0c-47b8-994d-04bd64194854))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0240") (unit 1)
         )
@@ -7458,7 +7458,7 @@
     )
     (pin "1" (uuid 77f5e959-790e-4528-b1b4-81f967b5b76f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0492") (unit 1)
         )
@@ -7483,7 +7483,7 @@
     )
     (pin "1" (uuid 5fc0e158-12b8-4199-9c26-92a888c34a97))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0121") (unit 1)
         )
@@ -7508,7 +7508,7 @@
     )
     (pin "1" (uuid 6ab4e8e9-b1ee-4c90-b3c2-ebca5718cb2b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG070") (unit 1)
         )
@@ -7533,7 +7533,7 @@
     )
     (pin "1" (uuid 60670703-5f11-4038-b4b6-73287ed65a50))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0352") (unit 1)
         )
@@ -7558,7 +7558,7 @@
     )
     (pin "1" (uuid e2f0e36a-581d-4b7f-b5f4-b30ce5abbd64))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0117") (unit 1)
         )
@@ -7583,7 +7583,7 @@
     )
     (pin "1" (uuid a8396211-5ba5-4607-a5fe-c3a351922586))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0330") (unit 1)
         )
@@ -7608,7 +7608,7 @@
     )
     (pin "1" (uuid 9433753b-1ef4-4d3c-9f06-92c6268a659c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0401") (unit 1)
         )
@@ -7633,7 +7633,7 @@
     )
     (pin "1" (uuid 2ac477f9-b4c5-4527-a27c-ea7adac3fe7f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0180") (unit 1)
         )
@@ -7658,7 +7658,7 @@
     )
     (pin "1" (uuid 800cac85-faa0-4d3d-9f6c-56efd56fd4aa))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0252") (unit 1)
         )
@@ -7683,7 +7683,7 @@
     )
     (pin "1" (uuid d072ce70-9329-412e-8a74-c7468faa796a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0483") (unit 1)
         )
@@ -7723,7 +7723,7 @@
     (pin "8" (uuid 014e893b-c292-4cc9-ad45-eb8e67314c9e))
     (pin "9" (uuid 18d23a42-25d1-4d12-9323-6c50c4eb2929))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L64") (unit 1)
         )
@@ -7748,7 +7748,7 @@
     )
     (pin "1" (uuid 2bae07af-5864-40b7-8a0a-d9f193e2ee88))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0498") (unit 1)
         )
@@ -7773,7 +7773,7 @@
     )
     (pin "1" (uuid 2dda5477-4f70-480c-9a69-a4e7e3a1150c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0402") (unit 1)
         )
@@ -7798,7 +7798,7 @@
     )
     (pin "1" (uuid 4b009ade-305b-4689-91e1-97bbbbab5ef9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0464") (unit 1)
         )
@@ -7823,7 +7823,7 @@
     )
     (pin "1" (uuid 139ffea9-dfd9-43f7-b256-830b700b296d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0505") (unit 1)
         )
@@ -7863,7 +7863,7 @@
     (pin "8" (uuid 40c909d1-db6c-4512-818d-d2653c6f977b))
     (pin "9" (uuid a0d4cc9b-4cfc-4ad1-9cd9-9bf267bf19b8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L42") (unit 1)
         )
@@ -7888,7 +7888,7 @@
     )
     (pin "1" (uuid db9c4d41-1c9a-4784-89d0-91e74ac99950))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0237") (unit 1)
         )
@@ -7913,7 +7913,7 @@
     )
     (pin "1" (uuid 1a58983f-a594-4665-beeb-4fda5391fde5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0200") (unit 1)
         )
@@ -7938,7 +7938,7 @@
     )
     (pin "1" (uuid b84f2825-70de-4757-ac33-da6eb6e0771c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG016") (unit 1)
         )
@@ -7978,7 +7978,7 @@
     (pin "8" (uuid 7749e016-dc8f-40e2-afc6-6afc47c9f3a1))
     (pin "9" (uuid 881878b7-954b-4468-bf5d-2085f8670b27))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L3") (unit 1)
         )
@@ -8003,7 +8003,7 @@
     )
     (pin "1" (uuid cdae9856-d61b-4f15-b1bd-bf9a08eff4b0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0227") (unit 1)
         )
@@ -8028,7 +8028,7 @@
     )
     (pin "1" (uuid 344e5dd9-5fa7-4583-b375-33458b22a57d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0489") (unit 1)
         )
@@ -8053,7 +8053,7 @@
     )
     (pin "1" (uuid 7ff4f978-2b4a-4100-b42b-6de5a3f6bb9a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0137") (unit 1)
         )
@@ -8093,7 +8093,7 @@
     (pin "8" (uuid 8d6d2bc5-66fd-4b24-9aaa-96df611e351f))
     (pin "9" (uuid cf0afd9d-b195-4506-ba82-49ebbac55c0f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L6") (unit 1)
         )
@@ -8118,7 +8118,7 @@
     )
     (pin "1" (uuid e5d19a41-37de-49da-a0c3-83fb55e6e6d6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0232") (unit 1)
         )
@@ -8143,7 +8143,7 @@
     )
     (pin "1" (uuid 4cddc9e8-d510-4e56-b0ae-8370ef4108f3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0102") (unit 1)
         )
@@ -8168,7 +8168,7 @@
     )
     (pin "1" (uuid 2c06f21b-1fc3-41a9-8529-fd001912f90b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0502") (unit 1)
         )
@@ -8193,7 +8193,7 @@
     )
     (pin "1" (uuid e3d421c1-794a-49f9-8a2a-7fe316ef1ca8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0344") (unit 1)
         )
@@ -8218,7 +8218,7 @@
     )
     (pin "1" (uuid b4f58bdc-a48e-4ebb-8f15-be449767274e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG094") (unit 1)
         )
@@ -8258,7 +8258,7 @@
     (pin "8" (uuid ca745b3b-efbd-48c9-abb7-dfddd5d1c621))
     (pin "9" (uuid 3a9da4bf-df3f-4890-8824-abbc687d2e84))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L16") (unit 1)
         )
@@ -8283,7 +8283,7 @@
     )
     (pin "1" (uuid 908192b8-ad21-459e-a7da-8e121b3967a9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG042") (unit 1)
         )
@@ -8308,7 +8308,7 @@
     )
     (pin "1" (uuid 208e5ec4-09e8-4b58-87d4-d7bc38052d01))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG027") (unit 1)
         )
@@ -8333,7 +8333,7 @@
     )
     (pin "1" (uuid 748052f4-17d3-43e2-9863-18a7c0590633))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0485") (unit 1)
         )
@@ -8358,7 +8358,7 @@
     )
     (pin "1" (uuid ebe90a06-3895-42e8-a340-cd2d10463a53))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG067") (unit 1)
         )
@@ -8383,7 +8383,7 @@
     )
     (pin "1" (uuid 9c0ff475-1c61-4665-bc28-9b3b98cca0d5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG099") (unit 1)
         )
@@ -8408,7 +8408,7 @@
     )
     (pin "1" (uuid 4328401a-058d-46f2-a7d5-044d5fa1d7e3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0279") (unit 1)
         )
@@ -8433,7 +8433,7 @@
     )
     (pin "1" (uuid 1c80b4d0-ea3f-4f7b-8e37-40c921306231))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0271") (unit 1)
         )
@@ -8458,7 +8458,7 @@
     )
     (pin "1" (uuid 0d46f020-6c92-40cb-9da9-161a025ca1a1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0394") (unit 1)
         )
@@ -8483,7 +8483,7 @@
     )
     (pin "1" (uuid 69a2c4ae-273e-4f11-97c0-6d6eea9e72cb))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG07") (unit 1)
         )
@@ -8508,7 +8508,7 @@
     )
     (pin "1" (uuid 241010b6-c95e-40f7-9183-c10f4cc4ef96))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0488") (unit 1)
         )
@@ -8533,7 +8533,7 @@
     )
     (pin "1" (uuid aa97f13f-36df-42fa-aada-45a373ffd7a3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0425") (unit 1)
         )
@@ -8558,7 +8558,7 @@
     )
     (pin "1" (uuid 8d6b0506-5b0a-487e-926a-33b982062485))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0361") (unit 1)
         )
@@ -8583,7 +8583,7 @@
     )
     (pin "1" (uuid 32a9e4ca-6d43-4e29-aaaa-f2d01462c140))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0438") (unit 1)
         )
@@ -8608,7 +8608,7 @@
     )
     (pin "1" (uuid 07bed503-4825-47e3-8f84-fe58c089428c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0206") (unit 1)
         )
@@ -8633,7 +8633,7 @@
     )
     (pin "1" (uuid 5d34c60e-35ad-4ff4-97c1-c48daa029de8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0399") (unit 1)
         )
@@ -8666,7 +8666,7 @@
     (pin "8" (uuid 0b6b5a0c-b0ef-45aa-bedb-bb590bb79953))
     (pin "9" (uuid d6f0c490-2b66-4a90-9403-76edb3fe6737))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U15") (unit 1)
         )
@@ -8691,7 +8691,7 @@
     )
     (pin "1" (uuid 186d3e5b-f314-42f8-9904-814095a4bdad))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0164") (unit 1)
         )
@@ -8716,7 +8716,7 @@
     )
     (pin "1" (uuid 2ed1cfb7-a162-4fe0-ad81-7b6a5e0a366b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0509") (unit 1)
         )
@@ -8741,7 +8741,7 @@
     )
     (pin "1" (uuid 5dda190f-f4b2-4479-87fa-3ca89553355a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0410") (unit 1)
         )
@@ -8766,7 +8766,7 @@
     )
     (pin "1" (uuid 4de090d7-5180-458e-bb9f-60dba38bf1e9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0156") (unit 1)
         )
@@ -8791,7 +8791,7 @@
     )
     (pin "1" (uuid c3587bac-d8d3-47ea-bdec-a81103f00512))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0354") (unit 1)
         )
@@ -8816,7 +8816,7 @@
     )
     (pin "1" (uuid 1e861ef4-3ad0-4fb4-a365-89d9562e3fe8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0217") (unit 1)
         )
@@ -8849,7 +8849,7 @@
     (pin "8" (uuid e5c3c363-a315-4534-837e-c0a817048825))
     (pin "9" (uuid 02b3dccc-bddd-46d2-97a9-d486d46a5910))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U16") (unit 1)
         )
@@ -8874,7 +8874,7 @@
     )
     (pin "1" (uuid 07073d54-56b1-4959-aaa7-9372f61d6114))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0379") (unit 1)
         )
@@ -8899,7 +8899,7 @@
     )
     (pin "1" (uuid 032c77b4-9d23-42c6-bfbd-746a1d4b367d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0224") (unit 1)
         )
@@ -8924,7 +8924,7 @@
     )
     (pin "1" (uuid 4abac437-d53e-4d4a-8f8c-074e011b849b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0278") (unit 1)
         )
@@ -8949,7 +8949,7 @@
     )
     (pin "1" (uuid c09f4ca0-f610-445c-828a-cf27a9e19242))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0171") (unit 1)
         )
@@ -8974,7 +8974,7 @@
     )
     (pin "1" (uuid bf050be7-34bd-447e-919d-5bf11f7fa6f5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0501") (unit 1)
         )
@@ -8999,7 +8999,7 @@
     )
     (pin "1" (uuid ae3f3a82-7c35-415c-b476-2a9e9f870364))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0359") (unit 1)
         )
@@ -9024,7 +9024,7 @@
     )
     (pin "1" (uuid 6d045c60-8d16-48b6-b1c8-0beabcff65f6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG010") (unit 1)
         )
@@ -9049,7 +9049,7 @@
     )
     (pin "1" (uuid 11f4c0e9-14ec-4b1c-8600-d744bb89ba0e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG076") (unit 1)
         )
@@ -9074,7 +9074,7 @@
     )
     (pin "1" (uuid ab361f99-688a-4ef0-8e7f-5aad25a8552f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0244") (unit 1)
         )
@@ -9099,7 +9099,7 @@
     )
     (pin "1" (uuid 34c33bcf-790c-415c-ba7e-95b83c10062a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0455") (unit 1)
         )
@@ -9124,7 +9124,7 @@
     )
     (pin "1" (uuid 5ebe34d4-fe7f-4fae-9208-71e57c3590c9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0476") (unit 1)
         )
@@ -9149,7 +9149,7 @@
     )
     (pin "1" (uuid 63622c63-477c-432a-99e9-e5c3a0ae02f3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0339") (unit 1)
         )
@@ -9174,7 +9174,7 @@
     )
     (pin "1" (uuid 1fe92562-fb05-442c-a6f6-a2e5403fd966))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0103") (unit 1)
         )
@@ -9199,7 +9199,7 @@
     )
     (pin "1" (uuid f611cca4-66f2-404c-9a41-013d1df2e6f2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0199") (unit 1)
         )
@@ -9224,7 +9224,7 @@
     )
     (pin "1" (uuid a181d303-0bb7-4a9b-a17a-4abeeed4f9c2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0384") (unit 1)
         )
@@ -9249,7 +9249,7 @@
     )
     (pin "1" (uuid 3970945a-a3a9-453e-b440-95b9b234bb27))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0129") (unit 1)
         )
@@ -9274,7 +9274,7 @@
     )
     (pin "1" (uuid 00a138b6-d8a1-44b6-ae90-09fafef17375))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0332") (unit 1)
         )
@@ -9299,7 +9299,7 @@
     )
     (pin "1" (uuid 0b311e6c-3095-484c-82d9-02fa8267800b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0105") (unit 1)
         )
@@ -9324,7 +9324,7 @@
     )
     (pin "1" (uuid 2090a78d-d126-41bd-b152-9427b8a044bc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0179") (unit 1)
         )
@@ -9364,7 +9364,7 @@
     (pin "8" (uuid 7bc0f908-17c5-47bc-81e9-e97e58ea6448))
     (pin "9" (uuid f2213fd1-b80a-4327-aa57-2f7e77e412ab))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L56") (unit 1)
         )
@@ -9389,7 +9389,7 @@
     )
     (pin "1" (uuid 15a4a2fa-b011-4ddd-a185-609d27a39053))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0120") (unit 1)
         )
@@ -9414,7 +9414,7 @@
     )
     (pin "1" (uuid 631f5549-df63-4129-9c87-6d9cbc8bd55d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG029") (unit 1)
         )
@@ -9439,7 +9439,7 @@
     )
     (pin "1" (uuid 8cae60cf-730c-44f6-8f8d-e766142dba54))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0387") (unit 1)
         )
@@ -9464,7 +9464,7 @@
     )
     (pin "1" (uuid 123b2299-600c-466e-922a-ccf2912d46fb))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG075") (unit 1)
         )
@@ -9489,7 +9489,7 @@
     )
     (pin "1" (uuid 3ba042f3-f6cc-4368-8212-e8ef416d7d7b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG060") (unit 1)
         )
@@ -9529,7 +9529,7 @@
     (pin "8" (uuid 8cdbf78b-87b1-4ffe-b7ca-bef48199bf13))
     (pin "9" (uuid 34103fcc-56fa-4e96-b354-4d372ae26718))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L21") (unit 1)
         )
@@ -9554,7 +9554,7 @@
     )
     (pin "1" (uuid ed5f6b34-57ba-4099-9f14-d1967ae35d3e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0132") (unit 1)
         )
@@ -9579,7 +9579,7 @@
     )
     (pin "1" (uuid 8d1358bf-3b6d-469a-bd85-545299eb6e2d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0503") (unit 1)
         )
@@ -9604,7 +9604,7 @@
     )
     (pin "1" (uuid ea224ffd-6a1e-4e0c-9ba7-27dc45f756ea))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0422") (unit 1)
         )
@@ -9629,7 +9629,7 @@
     )
     (pin "1" (uuid a8aed2ba-c9af-4297-866a-1857bdddc8b3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG090") (unit 1)
         )
@@ -9654,7 +9654,7 @@
     )
     (pin "1" (uuid a6efcb41-2fbf-4db7-8ed4-f4301c3b32f0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0107") (unit 1)
         )
@@ -9679,7 +9679,7 @@
     )
     (pin "1" (uuid 2bef624f-2d80-4a73-8add-1806bdf8d2ed))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0212") (unit 1)
         )
@@ -9704,7 +9704,7 @@
     )
     (pin "1" (uuid 69aea875-35e9-4bdb-99cf-a2793b14e3aa))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0400") (unit 1)
         )
@@ -9729,7 +9729,7 @@
     )
     (pin "1" (uuid 0d3fe857-29bb-4b84-ae34-0943b3381b9f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0378") (unit 1)
         )
@@ -9769,7 +9769,7 @@
     (pin "8" (uuid 0a07820a-b85b-4ab4-b5af-ad625c0e8224))
     (pin "9" (uuid 4a1410d1-2d8d-454e-8795-d4f46302f695))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L45") (unit 1)
         )
@@ -9794,7 +9794,7 @@
     )
     (pin "1" (uuid f3c444fa-f215-4dc3-8a0e-439308195204))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0351") (unit 1)
         )
@@ -9819,7 +9819,7 @@
     )
     (pin "1" (uuid 656305fb-33e7-4f22-b8b0-9768ad978800))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0235") (unit 1)
         )
@@ -9844,7 +9844,7 @@
     )
     (pin "1" (uuid dc967c18-c674-4f8b-a1a7-069d72c3dc21))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0149") (unit 1)
         )
@@ -9869,7 +9869,7 @@
     )
     (pin "1" (uuid 83071bfd-74db-48af-81c1-24321b9c34dc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0474") (unit 1)
         )
@@ -9894,7 +9894,7 @@
     )
     (pin "1" (uuid 4bb68039-82e7-439c-a96e-27556692a727))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0451") (unit 1)
         )
@@ -9919,7 +9919,7 @@
     )
     (pin "1" (uuid 24be28f2-24ca-43df-bd83-0c34831a5967))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0185") (unit 1)
         )
@@ -9944,7 +9944,7 @@
     )
     (pin "1" (uuid 7a969fd6-6536-4c81-a48b-a0e1c6be9dcc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0479") (unit 1)
         )
@@ -9969,7 +9969,7 @@
     )
     (pin "1" (uuid e51c46aa-5465-426e-9223-5cb520210348))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0268") (unit 1)
         )
@@ -9994,7 +9994,7 @@
     )
     (pin "1" (uuid 9cab2eab-6e7d-4554-8b0a-f8c18ee98963))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0100") (unit 1)
         )
@@ -10034,7 +10034,7 @@
     (pin "8" (uuid 2848b48f-6ece-4214-aaba-8e2f9b0c5f21))
     (pin "9" (uuid 32c69729-ae17-45f3-b8ef-43e2d5335427))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L23") (unit 1)
         )
@@ -10067,7 +10067,7 @@
     (pin "8" (uuid 98766d6b-36e2-45dd-a5be-76af645a40e2))
     (pin "9" (uuid 528f6b23-5652-44de-8427-0879644afdae))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U3") (unit 1)
         )
@@ -10092,7 +10092,7 @@
     )
     (pin "1" (uuid b1880574-0b20-4c13-b476-bafacd8cda66))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0145") (unit 1)
         )
@@ -10117,7 +10117,7 @@
     )
     (pin "1" (uuid 9b7ddc50-181e-4f5f-8344-13fad3943d23))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0287") (unit 1)
         )
@@ -10142,7 +10142,7 @@
     )
     (pin "1" (uuid a7832502-2903-47da-a5d8-c56774174982))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0197") (unit 1)
         )
@@ -10167,7 +10167,7 @@
     )
     (pin "1" (uuid 8917bb1d-1531-412a-be67-bc1ae474544d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG09") (unit 1)
         )
@@ -10192,7 +10192,7 @@
     )
     (pin "1" (uuid 202399fc-b73f-44c4-9729-e1843101addc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0148") (unit 1)
         )
@@ -10232,7 +10232,7 @@
     (pin "8" (uuid d7714015-f0ce-4390-b21e-d61a2e300aa5))
     (pin "9" (uuid 10acc65a-5315-4036-acf0-0da2ceefa734))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L38") (unit 1)
         )
@@ -10257,7 +10257,7 @@
     )
     (pin "1" (uuid 6cb75d1b-100a-4b26-ae5d-2313cdb206fc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0108") (unit 1)
         )
@@ -10282,7 +10282,7 @@
     )
     (pin "1" (uuid 876dc1e2-c84b-4e67-9baa-9a9441915fac))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG058") (unit 1)
         )
@@ -10307,7 +10307,7 @@
     )
     (pin "1" (uuid fd692e56-ca66-4159-8751-00d31132ff00))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0388") (unit 1)
         )
@@ -10332,7 +10332,7 @@
     )
     (pin "1" (uuid 71df247d-05b6-496a-a9f5-8003f8903612))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0261") (unit 1)
         )
@@ -10357,7 +10357,7 @@
     )
     (pin "1" (uuid 941d13b3-c4dc-4fac-9f00-5f055cd29f40))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG072") (unit 1)
         )
@@ -10382,7 +10382,7 @@
     )
     (pin "1" (uuid 285b7022-ab9d-4371-b8bf-dade57d539c1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0209") (unit 1)
         )
@@ -10407,7 +10407,7 @@
     )
     (pin "1" (uuid d8db312a-0172-437d-8c8e-1c833052e7ba))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0323") (unit 1)
         )
@@ -10432,7 +10432,7 @@
     )
     (pin "1" (uuid 28d64020-7909-441a-bc91-46e863ac7e92))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0236") (unit 1)
         )
@@ -10457,7 +10457,7 @@
     )
     (pin "1" (uuid 00fafc11-b9b6-4040-b4f4-5c89c3775577))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG082") (unit 1)
         )
@@ -10482,7 +10482,7 @@
     )
     (pin "1" (uuid 83371db4-ec65-4bde-acbd-e8b537f3d3f8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG073") (unit 1)
         )
@@ -10507,7 +10507,7 @@
     )
     (pin "1" (uuid 26588aa7-8d63-4bdf-9c49-8b2b84b5bec1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0151") (unit 1)
         )
@@ -10532,7 +10532,7 @@
     )
     (pin "1" (uuid 6add3aaa-0495-467d-9188-db346bc7999c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0391") (unit 1)
         )
@@ -10557,7 +10557,7 @@
     )
     (pin "1" (uuid 548769a2-c778-4443-aa80-81026a98f476))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG035") (unit 1)
         )
@@ -10582,7 +10582,7 @@
     )
     (pin "1" (uuid 06cc5853-99f0-4c61-89df-8cdaf8f5e09a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0194") (unit 1)
         )
@@ -10622,7 +10622,7 @@
     (pin "8" (uuid 50cdb206-ec90-4df5-bd4a-d13da92ba17e))
     (pin "9" (uuid 1fec8899-8499-4409-adb9-b2dafdee1e44))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L52") (unit 1)
         )
@@ -10647,7 +10647,7 @@
     )
     (pin "1" (uuid 6602f4d4-72c0-4569-9f74-bbfce96bdc8f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0320") (unit 1)
         )
@@ -10672,7 +10672,7 @@
     )
     (pin "1" (uuid 64ade7c3-932d-4cbf-b0e4-15b1d0327eb6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0409") (unit 1)
         )
@@ -10697,7 +10697,7 @@
     )
     (pin "1" (uuid 73bc04ed-7717-450d-83ca-83d3f7848433))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP4") (unit 1)
         )
@@ -10722,7 +10722,7 @@
     )
     (pin "1" (uuid 71f36504-010b-4ce9-8079-8196334f1ad4))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0262") (unit 1)
         )
@@ -10747,7 +10747,7 @@
     )
     (pin "1" (uuid d9fd9674-c9f6-470f-abbd-bd70ced5197f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0480") (unit 1)
         )
@@ -10772,7 +10772,7 @@
     )
     (pin "1" (uuid 4fc25b06-2ea0-42fb-9faa-36f89c501a24))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0365") (unit 1)
         )
@@ -10797,7 +10797,7 @@
     )
     (pin "1" (uuid 4a4d10ea-bafe-4c4a-b243-a0ca6a4401c3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0357") (unit 1)
         )
@@ -10837,7 +10837,7 @@
     (pin "8" (uuid 5a312718-078d-49fb-8d49-949427ee1f54))
     (pin "9" (uuid b14a670f-a3fc-4242-a3b7-918aef73bdcb))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L4") (unit 1)
         )
@@ -10862,7 +10862,7 @@
     )
     (pin "1" (uuid 6d25004a-21f9-4725-bc2c-aceb20a6412d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0215") (unit 1)
         )
@@ -10887,7 +10887,7 @@
     )
     (pin "1" (uuid 77729f6b-cff2-4fd3-8031-cf0e5145191d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0487") (unit 1)
         )
@@ -10912,7 +10912,7 @@
     )
     (pin "1" (uuid 648f121a-a38e-4763-ab32-679ecd2913f8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG044") (unit 1)
         )
@@ -10937,7 +10937,7 @@
     )
     (pin "1" (uuid e5d288d4-a23c-4b60-b5ce-e869e713828f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0373") (unit 1)
         )
@@ -10962,7 +10962,7 @@
     )
     (pin "1" (uuid e6d1a6ed-dcf8-482d-9ead-79439fdee03a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0184") (unit 1)
         )
@@ -10987,7 +10987,7 @@
     )
     (pin "1" (uuid 17e34c08-a0e9-4f1f-8427-1bd5a233c440))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0122") (unit 1)
         )
@@ -11027,7 +11027,7 @@
     (pin "8" (uuid 77ffd8f4-5204-43f3-aa67-6070487fb93f))
     (pin "9" (uuid 1ee22f21-e7be-42a4-b1a9-0571f719e1bc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L33") (unit 1)
         )
@@ -11052,7 +11052,7 @@
     )
     (pin "1" (uuid 0818436c-d78a-4c21-a8ac-843fb1672f55))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0163") (unit 1)
         )
@@ -11077,7 +11077,7 @@
     )
     (pin "1" (uuid 99d2dace-0f35-4198-89c4-6702cae7e07b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0150") (unit 1)
         )
@@ -11102,7 +11102,7 @@
     )
     (pin "1" (uuid e4d013ef-0e8b-4c31-b872-f5211f054135))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0393") (unit 1)
         )
@@ -11127,7 +11127,7 @@
     )
     (pin "1" (uuid 112826ac-03c9-4c76-9fe0-5f2a20c566de))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0477") (unit 1)
         )
@@ -11152,7 +11152,7 @@
     )
     (pin "1" (uuid a6eeab69-28c6-4141-b1ce-4292fcfe11eb))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0448") (unit 1)
         )
@@ -11169,7 +11169,7 @@
     (property "Value" "Conn_01x01" (at 21.59 220.98 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Horizontal" (at 21.59 218.44 0)
+    (property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x01_P2.00mm_Horizontal" (at 21.59 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 21.59 218.44 0)
@@ -11177,7 +11177,7 @@
     )
     (pin "1" (uuid 5d18640d-aca8-4e8c-8497-379e4d4739af))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "J3") (unit 1)
         )
@@ -11202,7 +11202,7 @@
     )
     (pin "1" (uuid 2d3b32b3-77f0-4064-84ac-09a7205a081c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0255") (unit 1)
         )
@@ -11227,7 +11227,7 @@
     )
     (pin "1" (uuid 18a630ce-04a1-434f-aba3-dd3a86a8ded7))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP15") (unit 1)
         )
@@ -11252,7 +11252,7 @@
     )
     (pin "1" (uuid 9223a32a-0ca1-433a-a43d-30772643ded8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0434") (unit 1)
         )
@@ -11277,7 +11277,7 @@
     )
     (pin "1" (uuid 1beda856-6d0e-4421-b43b-1bb5fc30cd11))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0104") (unit 1)
         )
@@ -11302,7 +11302,7 @@
     )
     (pin "1" (uuid f72e73ca-d982-4d0d-aad3-a8d1752b35d8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0291") (unit 1)
         )
@@ -11327,7 +11327,7 @@
     )
     (pin "1" (uuid 7e179a60-d7b3-46b8-a1bc-00d1df9ca29c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0170") (unit 1)
         )
@@ -11352,7 +11352,7 @@
     )
     (pin "1" (uuid 17da927b-e9be-47c1-9b22-a2e0df3f2f90))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0322") (unit 1)
         )
@@ -11377,7 +11377,7 @@
     )
     (pin "1" (uuid 4a7947b5-7267-4bf7-9a6c-51c8d9c8f24c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0265") (unit 1)
         )
@@ -11410,7 +11410,7 @@
     (pin "8" (uuid e7f4552b-5494-4627-b495-c2e533279660))
     (pin "9" (uuid 95241226-1fb4-4a39-851c-0d82ab568fc1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U6") (unit 1)
         )
@@ -11435,7 +11435,7 @@
     )
     (pin "1" (uuid 55bf0d07-0ac5-4375-88fd-7d38dfe8f64e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0377") (unit 1)
         )
@@ -11460,7 +11460,7 @@
     )
     (pin "1" (uuid caab77e2-2bf1-4406-bd9a-c8eab862d508))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0507") (unit 1)
         )
@@ -11500,7 +11500,7 @@
     (pin "8" (uuid 834a0cc5-cf71-4ca5-8922-31134ee0cc3d))
     (pin "9" (uuid f15a1948-549d-418f-9b41-b5512e63e85e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L28") (unit 1)
         )
@@ -11525,7 +11525,7 @@
     )
     (pin "1" (uuid 8b4c8428-5947-4b51-8b72-cb87d0769452))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP16") (unit 1)
         )
@@ -11550,7 +11550,7 @@
     )
     (pin "1" (uuid 58caf5b8-696f-4634-9b29-52c42c0891c3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG087") (unit 1)
         )
@@ -11575,7 +11575,7 @@
     )
     (pin "1" (uuid c15bbccc-32e6-44a8-aaee-715ebf52d3ea))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0169") (unit 1)
         )
@@ -11600,7 +11600,7 @@
     )
     (pin "1" (uuid 4574986f-53b1-4465-b97c-f4085156d556))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0375") (unit 1)
         )
@@ -11625,7 +11625,7 @@
     )
     (pin "1" (uuid 09e69518-634a-4f46-8ef3-4669b21698a9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG056") (unit 1)
         )
@@ -11650,7 +11650,7 @@
     )
     (pin "1" (uuid 072e0c32-9590-4040-a1f9-d8e74ba73996))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0301") (unit 1)
         )
@@ -11675,7 +11675,7 @@
     )
     (pin "1" (uuid 8e8266bc-5349-4669-9a21-ea17413628c2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG086") (unit 1)
         )
@@ -11700,7 +11700,7 @@
     )
     (pin "1" (uuid e5a0408e-316c-4187-93cf-b8c1508c0997))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0496") (unit 1)
         )
@@ -11725,7 +11725,7 @@
     )
     (pin "1" (uuid eb8c37aa-b87d-4d4a-b2d6-a3f7a677add4))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0297") (unit 1)
         )
@@ -11750,7 +11750,7 @@
     )
     (pin "1" (uuid ddbc4784-bd4e-489d-a509-d57870c40a6b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0220") (unit 1)
         )
@@ -11775,7 +11775,7 @@
     )
     (pin "1" (uuid 59b370a9-6dac-477a-9b71-2dff6ed7be88))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0181") (unit 1)
         )
@@ -11800,7 +11800,7 @@
     )
     (pin "1" (uuid 6d4eebe5-0b70-4d2c-b8e7-03e4b5fe2269))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0233") (unit 1)
         )
@@ -11825,7 +11825,7 @@
     )
     (pin "1" (uuid cce7f95c-a467-4ca5-a445-94282ef0c62b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP6") (unit 1)
         )
@@ -11850,7 +11850,7 @@
     )
     (pin "1" (uuid 535527ca-d87d-4db2-a195-b224f6b69656))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0116") (unit 1)
         )
@@ -11875,7 +11875,7 @@
     )
     (pin "1" (uuid 8e50ee30-37c7-40ac-ad68-6105d0b34c0b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0201") (unit 1)
         )
@@ -11900,7 +11900,7 @@
     )
     (pin "1" (uuid 7fafa877-fc59-4cc6-a226-a1a51aaaaa89))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG041") (unit 1)
         )
@@ -11925,7 +11925,7 @@
     )
     (pin "1" (uuid 1f2af004-39dc-4310-a180-10909373962f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0193") (unit 1)
         )
@@ -11950,7 +11950,7 @@
     )
     (pin "1" (uuid e8ea0883-97c2-4fb1-9fa9-c11fd0efb169))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP8") (unit 1)
         )
@@ -11975,7 +11975,7 @@
     )
     (pin "1" (uuid dc430490-fb56-4e06-8c1f-29746a7db0f7))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG065") (unit 1)
         )
@@ -12000,7 +12000,7 @@
     )
     (pin "1" (uuid 89eb4b5a-e3e9-4c8f-9c8d-042e8448f15d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0329") (unit 1)
         )
@@ -12025,7 +12025,7 @@
     )
     (pin "1" (uuid 4b03347a-8fa2-4fcd-8683-264045831f5d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0266") (unit 1)
         )
@@ -12050,7 +12050,7 @@
     )
     (pin "1" (uuid 4127d800-c8a0-43a6-b35f-596ecff8e677))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0242") (unit 1)
         )
@@ -12075,7 +12075,7 @@
     )
     (pin "1" (uuid 8f495d7e-c37a-4a9f-956c-469902432fd8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0449") (unit 1)
         )
@@ -12100,7 +12100,7 @@
     )
     (pin "1" (uuid d67161f2-7a93-42ee-9d4c-41c255325c6f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0219") (unit 1)
         )
@@ -12125,7 +12125,7 @@
     )
     (pin "1" (uuid 489d4d63-4041-4b45-aba4-6065d8c717df))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG053") (unit 1)
         )
@@ -12150,7 +12150,7 @@
     )
     (pin "1" (uuid 3076d34f-0df6-4b32-89d5-03a7b3ce8de1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0500") (unit 1)
         )
@@ -12175,7 +12175,7 @@
     )
     (pin "1" (uuid e6fdf041-9fee-4086-9ea7-d59019b6931c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0390") (unit 1)
         )
@@ -12200,7 +12200,7 @@
     )
     (pin "1" (uuid 337faa7f-7242-47e8-a14b-e5fde1820b62))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0275") (unit 1)
         )
@@ -12240,7 +12240,7 @@
     (pin "8" (uuid d5a3b23a-2c95-4920-a134-adc0cfb0b273))
     (pin "9" (uuid f97166d8-bb0f-4376-b42c-1275583067ac))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L1") (unit 1)
         )
@@ -12265,7 +12265,7 @@
     )
     (pin "1" (uuid 158b2db0-2560-4d55-a69a-61bbc8f84e62))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG017") (unit 1)
         )
@@ -12290,7 +12290,7 @@
     )
     (pin "1" (uuid 0fafd07f-f445-4a50-a356-dd97e76c09e9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0424") (unit 1)
         )
@@ -12315,7 +12315,7 @@
     )
     (pin "1" (uuid 7acf62a0-d43b-4ee7-b2c3-30f2786f362e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0192") (unit 1)
         )
@@ -12340,7 +12340,7 @@
     )
     (pin "1" (uuid 7c5b9b84-48f9-4908-ac5b-e267d963ed9f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG085") (unit 1)
         )
@@ -12365,7 +12365,7 @@
     )
     (pin "1" (uuid a4b22725-549f-4e94-8574-0e06bb5c2dbc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0420") (unit 1)
         )
@@ -12390,7 +12390,7 @@
     )
     (pin "1" (uuid 612b209d-5ca2-49c8-a9be-e571cde6ef5e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0296") (unit 1)
         )
@@ -12415,7 +12415,7 @@
     )
     (pin "1" (uuid e5290385-6c4c-402b-a87b-61a80657a836))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0188") (unit 1)
         )
@@ -12440,7 +12440,7 @@
     )
     (pin "1" (uuid e20e4a80-284c-4f44-8af3-7547fda27666))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0442") (unit 1)
         )
@@ -12465,7 +12465,7 @@
     )
     (pin "1" (uuid 2e10b2f1-2c9c-40af-b7c3-0b785f8b861f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0259") (unit 1)
         )
@@ -12505,7 +12505,7 @@
     (pin "8" (uuid a1310d13-c281-45ec-a82b-0106362ff393))
     (pin "9" (uuid 605609a1-9305-4541-bf7b-9ec19281390b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L29") (unit 1)
         )
@@ -12530,7 +12530,7 @@
     )
     (pin "1" (uuid 6878779c-1be4-4e98-9556-f64461bfe4d8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0136") (unit 1)
         )
@@ -12555,7 +12555,7 @@
     )
     (pin "1" (uuid 3e38b226-8b36-4e44-89b2-dfd521401b0b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0506") (unit 1)
         )
@@ -12580,7 +12580,7 @@
     )
     (pin "1" (uuid 9db6cfef-9332-45da-9f94-0add2c57f679))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0187") (unit 1)
         )
@@ -12605,7 +12605,7 @@
     )
     (pin "1" (uuid 2a792e9a-f44a-46fb-b64e-cff9e6318c7d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0211") (unit 1)
         )
@@ -12630,7 +12630,7 @@
     )
     (pin "1" (uuid 07868257-df29-43d2-9b18-f79cee283988))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0293") (unit 1)
         )
@@ -12655,7 +12655,7 @@
     )
     (pin "1" (uuid 55d14191-b7f7-4f22-a97d-0b5126f70a1e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0495") (unit 1)
         )
@@ -12680,7 +12680,7 @@
     )
     (pin "1" (uuid 105656b5-a8ae-41bf-85d7-dcce23f69f18))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG012") (unit 1)
         )
@@ -12705,7 +12705,7 @@
     )
     (pin "1" (uuid 0b813d28-3420-4918-b796-ffd9dc4e79a5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0431") (unit 1)
         )
@@ -12730,7 +12730,7 @@
     )
     (pin "1" (uuid 9661db8e-a90f-415c-b730-dea36b7a9f64))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP13") (unit 1)
         )
@@ -12755,7 +12755,7 @@
     )
     (pin "1" (uuid a0dd2a06-7918-4cf3-a66c-1defb90d1332))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0147") (unit 1)
         )
@@ -12780,7 +12780,7 @@
     )
     (pin "1" (uuid b3856040-79ef-4023-b25f-9dbaa536213d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0126") (unit 1)
         )
@@ -12805,7 +12805,7 @@
     )
     (pin "1" (uuid 34ca4869-288b-4c8d-b8d5-31d29e291f52))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG039") (unit 1)
         )
@@ -12830,7 +12830,7 @@
     )
     (pin "1" (uuid 7b3de9c2-53b8-439d-8e26-561ead360fcd))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0281") (unit 1)
         )
@@ -12855,7 +12855,7 @@
     )
     (pin "1" (uuid 1a766020-b82c-4a07-91d7-8050d86304c3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0307") (unit 1)
         )
@@ -12895,7 +12895,7 @@
     (pin "8" (uuid 1c097818-4e91-4560-b342-5a1d0fdfd8cb))
     (pin "9" (uuid 0f300b41-9f86-4bb2-b689-ffe533428f57))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L11") (unit 1)
         )
@@ -12920,7 +12920,7 @@
     )
     (pin "1" (uuid 35bb6db5-d075-4bcd-bff6-cdd45545cc6b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0267") (unit 1)
         )
@@ -12945,7 +12945,7 @@
     )
     (pin "1" (uuid 76d798e5-a493-49f8-9934-b955285f230a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0439") (unit 1)
         )
@@ -12970,7 +12970,7 @@
     )
     (pin "1" (uuid 6ba9f5a1-1b72-4992-b746-4ba8ea634416))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0404") (unit 1)
         )
@@ -12995,7 +12995,7 @@
     )
     (pin "1" (uuid 6050852c-e998-4c74-834c-83d40f28c899))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0289") (unit 1)
         )
@@ -13020,7 +13020,7 @@
     )
     (pin "1" (uuid 2b3eba6e-d383-4517-8898-1ebe6c8c194d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0288") (unit 1)
         )
@@ -13045,7 +13045,7 @@
     )
     (pin "1" (uuid 9970af60-1465-4e05-a6e3-c6d6faa29acd))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0494") (unit 1)
         )
@@ -13070,7 +13070,7 @@
     )
     (pin "1" (uuid 72d672bb-6611-4ed7-9c21-322a2cbb97dd))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0415") (unit 1)
         )
@@ -13095,7 +13095,7 @@
     )
     (pin "1" (uuid f29a2dc2-bf40-45a9-8417-db8ebf6df720))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG036") (unit 1)
         )
@@ -13120,7 +13120,7 @@
     )
     (pin "1" (uuid c728edee-0310-423f-9e05-1acbb113c081))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0360") (unit 1)
         )
@@ -13145,7 +13145,7 @@
     )
     (pin "1" (uuid 54c38de3-8eac-4e1a-ac50-8f7cb773dce9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0319") (unit 1)
         )
@@ -13170,7 +13170,7 @@
     )
     (pin "1" (uuid 69157cbb-3db8-438a-8ada-10c5a9b5120a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0436") (unit 1)
         )
@@ -13195,7 +13195,7 @@
     )
     (pin "1" (uuid 232b067a-1a65-4d4a-9022-e6ebc13e77ba))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0251") (unit 1)
         )
@@ -13220,7 +13220,7 @@
     )
     (pin "1" (uuid 724cb7e7-251e-4c19-a4ae-3a71ea72d5df))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0295") (unit 1)
         )
@@ -13245,7 +13245,7 @@
     )
     (pin "1" (uuid 40a6c47d-d709-4826-9df5-500481c404b0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0481") (unit 1)
         )
@@ -13270,7 +13270,7 @@
     )
     (pin "1" (uuid 4de04af7-070e-4290-990c-38a9f32140a9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0160") (unit 1)
         )
@@ -13295,7 +13295,7 @@
     )
     (pin "1" (uuid 852e53bf-cde1-42ec-9b9f-87fe6e8e8ca2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0241") (unit 1)
         )
@@ -13320,7 +13320,7 @@
     )
     (pin "1" (uuid 0412d952-441e-4e46-bb3e-9fa2a0c995c1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0248") (unit 1)
         )
@@ -13345,7 +13345,7 @@
     )
     (pin "1" (uuid 93f1739e-973f-4a08-83ec-48abb3d0fdef))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0125") (unit 1)
         )
@@ -13370,7 +13370,7 @@
     )
     (pin "1" (uuid 0baaa8d2-ed1f-402e-ae49-712544d0ea40))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG020") (unit 1)
         )
@@ -13395,7 +13395,7 @@
     )
     (pin "1" (uuid ebf90719-c073-44a4-acc0-42812e8a5ce5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0366") (unit 1)
         )
@@ -13428,7 +13428,7 @@
     (pin "8" (uuid 387c9e38-afe4-4307-aae4-fc7d3bf33c59))
     (pin "9" (uuid 2006fa8a-0039-482c-9d76-b60565a1a94f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U5") (unit 1)
         )
@@ -13453,7 +13453,7 @@
     )
     (pin "1" (uuid 6d4d27c4-3b27-497b-aed0-428e2e8548ad))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0456") (unit 1)
         )
@@ -13478,7 +13478,7 @@
     )
     (pin "1" (uuid 3b212e3c-5a49-4cc7-86cb-7d53e9419c3d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0315") (unit 1)
         )
@@ -13503,7 +13503,7 @@
     )
     (pin "1" (uuid 544f9a24-3c31-4350-bf5f-a5540cdfbca1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0350") (unit 1)
         )
@@ -13528,7 +13528,7 @@
     )
     (pin "1" (uuid 6c6a7516-b0b9-4168-9dee-cdb9fc0ccd3f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0493") (unit 1)
         )
@@ -13553,7 +13553,7 @@
     )
     (pin "1" (uuid becc0904-8304-4fec-b281-3632d2d4d42c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0490") (unit 1)
         )
@@ -13578,7 +13578,7 @@
     )
     (pin "1" (uuid 59d4f9f5-15b3-4500-ad8a-8d092e19cd52))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0510") (unit 1)
         )
@@ -13603,7 +13603,7 @@
     )
     (pin "1" (uuid 1b1998c4-3b39-4544-bf08-d9010380a93e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0146") (unit 1)
         )
@@ -13643,7 +13643,7 @@
     (pin "8" (uuid 3e35a150-ecdc-43ba-9378-fc874c245713))
     (pin "9" (uuid e82eaa72-ae61-4838-8382-214457daf7cf))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L32") (unit 1)
         )
@@ -13668,7 +13668,7 @@
     )
     (pin "1" (uuid c2468388-8d11-4ec5-9d34-b1ed360522f1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0343") (unit 1)
         )
@@ -13708,7 +13708,7 @@
     (pin "8" (uuid ecb34882-a11a-427a-839b-85560debd86b))
     (pin "9" (uuid cf4bca38-84cf-4904-834e-b189f20eba6c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L25") (unit 1)
         )
@@ -13748,7 +13748,7 @@
     (pin "8" (uuid 9908a1fa-225a-40e5-ba34-9b222e24e5cb))
     (pin "9" (uuid d81d9c2d-90c6-44a2-98f9-752dbd9b9dd7))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L13") (unit 1)
         )
@@ -13773,7 +13773,7 @@
     )
     (pin "1" (uuid 9dc8c509-d3a8-4d60-9ccf-84a5577234f5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0397") (unit 1)
         )
@@ -13798,7 +13798,7 @@
     )
     (pin "1" (uuid 1811a0ae-4cd0-4218-ae56-2eaaa9488b24))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0118") (unit 1)
         )
@@ -13823,7 +13823,7 @@
     )
     (pin "1" (uuid 0ce25c34-a1b2-45d4-b7b9-55eb3fbbe1e2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0115") (unit 1)
         )
@@ -13848,7 +13848,7 @@
     )
     (pin "1" (uuid dc037b51-d014-4463-ba67-d5a5e2ae8bd3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0142") (unit 1)
         )
@@ -13873,7 +13873,7 @@
     )
     (pin "1" (uuid a77ad12e-09d7-498f-9e7b-f6ca9a830827))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG069") (unit 1)
         )
@@ -13913,7 +13913,7 @@
     (pin "8" (uuid f96f92f8-bf5c-42d5-8ad2-4adef321622f))
     (pin "9" (uuid 2e172d79-d1f8-4d0e-8709-96bb89525b2b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L51") (unit 1)
         )
@@ -13953,7 +13953,7 @@
     (pin "8" (uuid eaec587d-415c-45ba-9f5b-51d6ed6ed2ba))
     (pin "9" (uuid 243b1924-5686-41a0-954e-b903aa909a37))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L36") (unit 1)
         )
@@ -13993,7 +13993,7 @@
     (pin "8" (uuid 3fa25a22-009f-4a57-a9a7-934ad55fba38))
     (pin "9" (uuid 19e6aa05-a9a9-4fe4-b78b-1c022f324143))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L47") (unit 1)
         )
@@ -14018,7 +14018,7 @@
     )
     (pin "1" (uuid 96620788-28b8-46a5-abff-7f252e920c8a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0437") (unit 1)
         )
@@ -14043,7 +14043,7 @@
     )
     (pin "1" (uuid a5f433e6-daf2-4e1a-a154-b1c0a3a4c610))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG08") (unit 1)
         )
@@ -14068,7 +14068,7 @@
     )
     (pin "1" (uuid 1c118399-6326-45e6-83a5-03e1d35d028a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG097") (unit 1)
         )
@@ -14093,7 +14093,7 @@
     )
     (pin "1" (uuid 00457ce8-26cd-4919-a79d-b2d865bdef31))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG046") (unit 1)
         )
@@ -14126,7 +14126,7 @@
     (pin "8" (uuid cf625c77-5e12-4294-9ca5-2a02b70884b5))
     (pin "9" (uuid b890966e-bb33-43aa-bf48-6158d80237d2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U7") (unit 1)
         )
@@ -14151,7 +14151,7 @@
     )
     (pin "1" (uuid 76326041-2214-4934-839d-0d02b625b8ee))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG043") (unit 1)
         )
@@ -14176,7 +14176,7 @@
     )
     (pin "1" (uuid 14c40061-e355-4b97-9cca-786361fcd738))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0308") (unit 1)
         )
@@ -14201,7 +14201,7 @@
     )
     (pin "1" (uuid e24ec51e-1961-465d-b2ba-5c179460776d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0280") (unit 1)
         )
@@ -14226,7 +14226,7 @@
     )
     (pin "1" (uuid 12c0c0bc-7867-4ca2-bb11-ef9b23994f4a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0214") (unit 1)
         )
@@ -14251,7 +14251,7 @@
     )
     (pin "1" (uuid 48366e70-ccf9-411f-a943-b7506c7fc17c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG05") (unit 1)
         )
@@ -14276,7 +14276,7 @@
     )
     (pin "1" (uuid 3e06c530-ca58-4644-8f9a-ccb655eb23d5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0195") (unit 1)
         )
@@ -14301,7 +14301,7 @@
     )
     (pin "1" (uuid cb62f6f4-e1de-4803-a2de-160e33755266))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0162") (unit 1)
         )
@@ -14326,7 +14326,7 @@
     )
     (pin "1" (uuid 6494dd64-6142-44b5-9e36-e9b2791eb643))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0369") (unit 1)
         )
@@ -14351,7 +14351,7 @@
     )
     (pin "1" (uuid 1776d2c7-e693-4d89-94e4-7b37f48e9faf))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0190") (unit 1)
         )
@@ -14376,7 +14376,7 @@
     )
     (pin "1" (uuid 97c567c2-9832-4ce4-bedf-0fcb6b485e19))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0285") (unit 1)
         )
@@ -14401,7 +14401,7 @@
     )
     (pin "1" (uuid 99e1514c-2604-4471-b70d-278fab73cc8d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0348") (unit 1)
         )
@@ -14426,7 +14426,7 @@
     )
     (pin "1" (uuid cdc02fe6-f312-4008-a18d-ed9f51ced65d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG071") (unit 1)
         )
@@ -14451,7 +14451,7 @@
     )
     (pin "1" (uuid 11caa58f-d472-4cc3-8a3b-032f6ddf4be6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0353") (unit 1)
         )
@@ -14476,7 +14476,7 @@
     )
     (pin "1" (uuid 6075b629-f23e-4afc-a70e-2fdbb0f04767))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0463") (unit 1)
         )
@@ -14501,7 +14501,7 @@
     )
     (pin "1" (uuid d0330e52-de7f-4860-8367-ecf2839add52))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG040") (unit 1)
         )
@@ -14526,7 +14526,7 @@
     )
     (pin "1" (uuid e1bbdbee-3747-4708-b4c6-1efe687d445e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG026") (unit 1)
         )
@@ -14551,7 +14551,7 @@
     )
     (pin "1" (uuid 22f216fe-092b-4983-a2a3-c5df052520eb))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0392") (unit 1)
         )
@@ -14576,7 +14576,7 @@
     )
     (pin "1" (uuid f464c954-defc-416f-9351-8f598030aa12))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG084") (unit 1)
         )
@@ -14609,7 +14609,7 @@
     (pin "8" (uuid d67c872e-cc14-4bda-84ae-21a3eab85a7b))
     (pin "9" (uuid 5f9aa6c7-34d6-4fa3-90e1-26d7da925078))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U2") (unit 1)
         )
@@ -14634,7 +14634,7 @@
     )
     (pin "1" (uuid 97a279c7-7d6f-4f46-8a57-63ef59ae716d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG059") (unit 1)
         )
@@ -14659,7 +14659,7 @@
     )
     (pin "1" (uuid bd1926b0-593e-4057-9f0c-0c697314bcd6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0158") (unit 1)
         )
@@ -14684,7 +14684,7 @@
     )
     (pin "1" (uuid e284f06c-6d66-4d1b-8121-f5ed1272b187))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG068") (unit 1)
         )
@@ -14709,7 +14709,7 @@
     )
     (pin "1" (uuid d9af2311-bcf5-4346-97f3-34a60284ddce))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0441") (unit 1)
         )
@@ -14734,7 +14734,7 @@
     )
     (pin "1" (uuid dcb93d53-ed21-419b-a1f5-8cf632623190))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0396") (unit 1)
         )
@@ -14759,7 +14759,7 @@
     )
     (pin "1" (uuid 65560e4a-38ad-4174-b7af-2fbc72d7fc83))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0508") (unit 1)
         )
@@ -14784,7 +14784,7 @@
     )
     (pin "1" (uuid e78320e2-a845-4208-a7f8-94967562b9a1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0228") (unit 1)
         )
@@ -14809,7 +14809,7 @@
     )
     (pin "1" (uuid 6ce0531e-69c3-4b1f-a387-54dccc95cfd9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0334") (unit 1)
         )
@@ -14849,7 +14849,7 @@
     (pin "8" (uuid 65ce6630-e45d-49f9-8320-7f55e4268199))
     (pin "9" (uuid 523f1521-9e1f-4d6a-9146-de28f8bedc71))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L17") (unit 1)
         )
@@ -14882,7 +14882,7 @@
     (pin "8" (uuid 1e0d76a5-90b1-4fbb-999f-e109ac7a8565))
     (pin "9" (uuid 1beacc73-1ea7-46f4-9ed4-b11e7dc4e1c1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U10") (unit 1)
         )
@@ -14907,7 +14907,7 @@
     )
     (pin "1" (uuid fec11806-2196-4a1e-99cb-d09177dfa66c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG098") (unit 1)
         )
@@ -14947,7 +14947,7 @@
     (pin "8" (uuid a0bb854c-31ed-4964-9b49-675450a5e432))
     (pin "9" (uuid 98764fb7-138c-4fc5-a616-6ce3575c3b22))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L35") (unit 1)
         )
@@ -14980,7 +14980,7 @@
     (pin "8" (uuid 248bd133-481e-4ff7-8bb6-e5b1bc8f95d0))
     (pin "9" (uuid e2e8c9ab-0926-48bf-8689-5915dc09ad48))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U9") (unit 1)
         )
@@ -15005,7 +15005,7 @@
     )
     (pin "1" (uuid 7dc35caa-4522-4343-9c2c-070e58e17323))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0310") (unit 1)
         )
@@ -15030,7 +15030,7 @@
     )
     (pin "1" (uuid 377ba4aa-397f-430c-8f5e-aa1f29129583))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0511") (unit 1)
         )
@@ -15055,7 +15055,7 @@
     )
     (pin "1" (uuid 5996b29c-8c4d-4d90-b7da-e30bda3ed99b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0269") (unit 1)
         )
@@ -15080,7 +15080,7 @@
     )
     (pin "1" (uuid 2060983f-e45e-4bbf-a40a-5c92055452f6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0314") (unit 1)
         )
@@ -15105,7 +15105,7 @@
     )
     (pin "1" (uuid fd77acff-2e7f-4c9c-af0d-b2b54dfa8652))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0272") (unit 1)
         )
@@ -15130,7 +15130,7 @@
     )
     (pin "1" (uuid 4c82ca1d-ee74-4388-968e-6d1cac6f8778))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG048") (unit 1)
         )
@@ -15155,7 +15155,7 @@
     )
     (pin "1" (uuid eef6b403-2f17-4335-b01e-c660381c53d2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0309") (unit 1)
         )
@@ -15180,7 +15180,7 @@
     )
     (pin "1" (uuid 34c908dd-0b63-45a5-bf49-c904f079bad1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0303") (unit 1)
         )
@@ -15197,7 +15197,7 @@
     (property "Value" "Conn_01x01" (at 24.13 216.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Horizontal" (at 21.59 214.63 0)
+    (property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x01_P2.00mm_Horizontal" (at 21.59 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 21.59 214.63 0)
@@ -15205,7 +15205,7 @@
     )
     (pin "1" (uuid 85d734dc-8451-4ea4-83ec-b059bdc7c405))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "J1") (unit 1)
         )
@@ -15245,7 +15245,7 @@
     (pin "8" (uuid 8397c438-fb3f-4e1d-b48c-cd3ea2325dcf))
     (pin "9" (uuid 943f635d-efa1-4adf-8395-9cdf3d41dfe1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L2") (unit 1)
         )
@@ -15270,7 +15270,7 @@
     )
     (pin "1" (uuid ff6ff300-2715-4c4c-9289-e9aa8e7b50e1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG093") (unit 1)
         )
@@ -15295,7 +15295,7 @@
     )
     (pin "1" (uuid 05772c1c-1665-4913-ba17-bea373fe59ec))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0408") (unit 1)
         )
@@ -15320,7 +15320,7 @@
     )
     (pin "1" (uuid 473c6d88-722f-4e45-93e0-85451b8e2f3f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0256") (unit 1)
         )
@@ -15345,7 +15345,7 @@
     )
     (pin "1" (uuid f54fc042-91a4-4f47-a857-b96f865e6e2d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG095") (unit 1)
         )
@@ -15370,7 +15370,7 @@
     )
     (pin "1" (uuid 8a05e35b-1147-4484-9971-967bdeb3c391))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0467") (unit 1)
         )
@@ -15395,7 +15395,7 @@
     )
     (pin "1" (uuid 961c1485-13e3-4f2f-8790-98ec6c4cfb75))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG023") (unit 1)
         )
@@ -15420,7 +15420,7 @@
     )
     (pin "1" (uuid 8a90e1db-6d70-49c7-839f-8a0de52fceb8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP14") (unit 1)
         )
@@ -15460,7 +15460,7 @@
     (pin "8" (uuid 26f4536f-7002-4a57-8f0c-27c080960474))
     (pin "9" (uuid eba0c783-17f0-4781-a5f6-4e442c298c49))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L22") (unit 1)
         )
@@ -15485,7 +15485,7 @@
     )
     (pin "1" (uuid 6e26e22e-e034-4732-a9cc-560d35de4eea))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP5") (unit 1)
         )
@@ -15510,7 +15510,7 @@
     )
     (pin "1" (uuid 2e8e7478-eadc-429c-95e4-33a1c81aa85f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG030") (unit 1)
         )
@@ -15535,7 +15535,7 @@
     )
     (pin "1" (uuid 9c42ff77-6189-4cd0-829e-9824285fb80c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG074") (unit 1)
         )
@@ -15575,7 +15575,7 @@
     (pin "8" (uuid 0686d132-5a98-41df-b039-07180c381f0a))
     (pin "9" (uuid df117f56-431e-4d50-ae18-cdf1bb3fdf87))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L26") (unit 1)
         )
@@ -15600,7 +15600,7 @@
     )
     (pin "1" (uuid c3fc36c6-fcff-444a-b7b9-a73916fcd849))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0465") (unit 1)
         )
@@ -15640,7 +15640,7 @@
     (pin "8" (uuid a59fb659-27cc-43bf-85f0-6a52d7f4c2c9))
     (pin "9" (uuid 2c0d36ca-5a05-4d34-9e31-a97b50e7bf4e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L55") (unit 1)
         )
@@ -15665,7 +15665,7 @@
     )
     (pin "1" (uuid e2ab3689-bfae-44c6-b8c6-d3e8add15eb6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG013") (unit 1)
         )
@@ -15690,7 +15690,7 @@
     )
     (pin "1" (uuid 3c613c5d-e4bc-433f-88f1-0e9b1ab9d3be))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0263") (unit 1)
         )
@@ -15715,7 +15715,7 @@
     )
     (pin "1" (uuid 6f3bf7e6-fc2b-48ac-9f6c-3f9fca553d21))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG061") (unit 1)
         )
@@ -15740,7 +15740,7 @@
     )
     (pin "1" (uuid 3f323b40-640f-4afc-b7a2-d821b301dc45))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP1") (unit 1)
         )
@@ -15765,7 +15765,7 @@
     )
     (pin "1" (uuid 27995545-e0c7-4187-8f34-d1d0c93adca5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0317") (unit 1)
         )
@@ -15790,7 +15790,7 @@
     )
     (pin "1" (uuid 699d924c-8356-426f-bd55-31a6b32e81bc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0417") (unit 1)
         )
@@ -15815,7 +15815,7 @@
     )
     (pin "1" (uuid 9cc8247c-86d3-4adb-8a1a-af992d07e407))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG015") (unit 1)
         )
@@ -15840,7 +15840,7 @@
     )
     (pin "1" (uuid 5398f023-aa81-404e-ac71-e87853864c40))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0140") (unit 1)
         )
@@ -15865,7 +15865,7 @@
     )
     (pin "1" (uuid a57f8c38-ccb0-4222-ae15-e69a119db7e8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0468") (unit 1)
         )
@@ -15890,7 +15890,7 @@
     )
     (pin "1" (uuid d3f9d411-0027-401d-9e1a-7dc36e5b5740))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0178") (unit 1)
         )
@@ -15915,7 +15915,7 @@
     )
     (pin "1" (uuid fc10eab9-bf6a-40a4-990b-6d0e85f26e7c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0421") (unit 1)
         )
@@ -15940,7 +15940,7 @@
     )
     (pin "1" (uuid d4a0655e-07a4-43d6-8475-5fc2e7440e89))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG024") (unit 1)
         )
@@ -15965,7 +15965,7 @@
     )
     (pin "1" (uuid a770483e-74a3-49e9-baa6-add8e62ba60f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0300") (unit 1)
         )
@@ -16005,7 +16005,7 @@
     (pin "8" (uuid 371cd1ac-f635-4108-963f-75bca39feebc))
     (pin "9" (uuid d490bde3-a1c3-411d-83fb-810a338901e0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L39") (unit 1)
         )
@@ -16030,7 +16030,7 @@
     )
     (pin "1" (uuid 8d0f495a-9fd1-4444-ab3e-8a67bc71830f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG038") (unit 1)
         )
@@ -16055,7 +16055,7 @@
     )
     (pin "1" (uuid 9983f000-1f90-4d37-9b27-2c62930410dd))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0153") (unit 1)
         )
@@ -16080,7 +16080,7 @@
     )
     (pin "1" (uuid 11992491-fa3f-483e-9ac9-891dc8148d5e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0106") (unit 1)
         )
@@ -16105,7 +16105,7 @@
     )
     (pin "1" (uuid d67ba258-32b1-47f1-aadc-0707e9571dbe))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0406") (unit 1)
         )
@@ -16130,7 +16130,7 @@
     )
     (pin "1" (uuid cc2914a9-448c-420d-bc8d-84886f14a7a1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG091") (unit 1)
         )
@@ -16155,7 +16155,7 @@
     )
     (pin "1" (uuid 5a37aa20-fbe6-43e6-a1d2-85bdc6cb625f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG083") (unit 1)
         )
@@ -16195,7 +16195,7 @@
     (pin "8" (uuid 33930120-4ab2-454f-9d58-8efe04e0c899))
     (pin "9" (uuid 9f53b445-b4f5-45bb-a61a-1a79235f1a80))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L43") (unit 1)
         )
@@ -16220,7 +16220,7 @@
     )
     (pin "1" (uuid 60fe880f-0db1-4a4f-8055-cd3098d073ae))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0304") (unit 1)
         )
@@ -16245,7 +16245,7 @@
     )
     (pin "1" (uuid 21be3251-8ab8-4c05-b266-d499a3c69e44))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG063") (unit 1)
         )
@@ -16270,7 +16270,7 @@
     )
     (pin "1" (uuid 79fe8c45-c5c0-4699-8c76-f03a30b8a0f3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0135") (unit 1)
         )
@@ -16295,7 +16295,7 @@
     )
     (pin "1" (uuid 9b8f6c2e-d260-4c95-a9ae-d1eba682543f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0458") (unit 1)
         )
@@ -16320,7 +16320,7 @@
     )
     (pin "1" (uuid d11b49ac-28ba-450d-b1ec-c994fdbba302))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0372") (unit 1)
         )
@@ -16345,7 +16345,7 @@
     )
     (pin "1" (uuid f3a1d0c8-2d5d-484f-b3b1-2462386f7123))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0398") (unit 1)
         )
@@ -16370,7 +16370,7 @@
     )
     (pin "1" (uuid 36027f31-53b7-4d8b-9447-917b66438eff))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0416") (unit 1)
         )
@@ -16395,7 +16395,7 @@
     )
     (pin "1" (uuid 2ca4b8b6-0920-45d4-adfc-2f14961e8122))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0459") (unit 1)
         )
@@ -16420,7 +16420,7 @@
     )
     (pin "1" (uuid 4aecb191-4dcf-445a-9e6a-3d9cce172f28))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0429") (unit 1)
         )
@@ -16445,7 +16445,7 @@
     )
     (pin "1" (uuid ea52492f-4dbe-4c2f-aaf8-8352cb49fd6e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0478") (unit 1)
         )
@@ -16470,7 +16470,7 @@
     )
     (pin "1" (uuid 80e45142-0779-443c-aa14-909bfb417494))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0284") (unit 1)
         )
@@ -16510,7 +16510,7 @@
     (pin "8" (uuid e06eca85-9f85-4347-96ba-bd97ad59f17c))
     (pin "9" (uuid c4df8fa5-1f7f-445e-91b5-4a50eaba7939))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L44") (unit 1)
         )
@@ -16535,7 +16535,7 @@
     )
     (pin "1" (uuid 5c4901b3-53a9-470f-b0fd-d5f938d9fe3f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0134") (unit 1)
         )
@@ -16575,7 +16575,7 @@
     (pin "8" (uuid 7ac0e5d8-872f-421f-9795-9f634c247b7e))
     (pin "9" (uuid b2968d0a-134c-47f5-9360-3a2f892f496e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L30") (unit 1)
         )
@@ -16600,7 +16600,7 @@
     )
     (pin "1" (uuid e37a0370-f3be-4423-971e-9ea481874376))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG031") (unit 1)
         )
@@ -16625,7 +16625,7 @@
     )
     (pin "1" (uuid e65f610b-5379-4834-a40e-c3f1198f4596))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0368") (unit 1)
         )
@@ -16650,7 +16650,7 @@
     )
     (pin "1" (uuid 7ae796a7-6160-4b14-9f62-287ba6bb84a3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0283") (unit 1)
         )
@@ -16675,7 +16675,7 @@
     )
     (pin "1" (uuid 43a05fdc-f75f-475e-8cd6-ed22daf719af))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0204") (unit 1)
         )
@@ -16700,7 +16700,7 @@
     )
     (pin "1" (uuid 711d4749-9da2-4d4d-bb4c-45bfc3dfeb9f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG01") (unit 1)
         )
@@ -16725,7 +16725,7 @@
     )
     (pin "1" (uuid 35536ab1-c0df-4162-82b8-46c3531dba41))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0273") (unit 1)
         )
@@ -16750,7 +16750,7 @@
     )
     (pin "1" (uuid 7b9bb6ae-6d90-4685-8a8f-90c493ac46d6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0367") (unit 1)
         )
@@ -16775,7 +16775,7 @@
     )
     (pin "1" (uuid de1e1b6b-ff6b-4573-a35c-609e068dbd99))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG021") (unit 1)
         )
@@ -16800,7 +16800,7 @@
     )
     (pin "1" (uuid 1fcbbea1-503d-4574-8f09-b3dc9aced5a9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0473") (unit 1)
         )
@@ -16825,7 +16825,7 @@
     )
     (pin "1" (uuid ab3884c0-528b-4039-9fb4-68e1758735df))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0371") (unit 1)
         )
@@ -16850,7 +16850,7 @@
     )
     (pin "1" (uuid 6cce90ac-be5e-442b-b529-9c7a64c4a1c8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0452") (unit 1)
         )
@@ -16875,7 +16875,7 @@
     )
     (pin "1" (uuid c980981d-dbb0-4e35-a177-092c4dcf51b3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0294") (unit 1)
         )
@@ -16900,7 +16900,7 @@
     )
     (pin "1" (uuid 0997f6d1-e249-4226-9dda-c662e90be45b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0466") (unit 1)
         )
@@ -16925,7 +16925,7 @@
     )
     (pin "1" (uuid 254323ab-5295-47bd-993a-9c73818974d0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0491") (unit 1)
         )
@@ -16965,7 +16965,7 @@
     (pin "8" (uuid 4ca4571b-54ae-4511-8ce7-4af0359be57c))
     (pin "9" (uuid 3f1222db-b6e0-4418-9fdf-891975cf8461))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L20") (unit 1)
         )
@@ -16990,7 +16990,7 @@
     )
     (pin "1" (uuid 0ec713eb-217b-4f89-8644-33d949836255))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0347") (unit 1)
         )
@@ -17030,7 +17030,7 @@
     (pin "8" (uuid e23ad5f3-36d5-4b9b-86d0-c6fb3a9dd35a))
     (pin "9" (uuid 10a78bb6-630b-4226-a0b0-3dd58022b9fd))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L48") (unit 1)
         )
@@ -17055,7 +17055,7 @@
     )
     (pin "1" (uuid f1d17b5d-e440-4e8d-bc61-5ea798c354f6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0363") (unit 1)
         )
@@ -17080,7 +17080,7 @@
     )
     (pin "1" (uuid b2d65d27-bdee-43c7-913b-66f35b59a7ea))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0213") (unit 1)
         )
@@ -17113,7 +17113,7 @@
     (pin "8" (uuid 224d700c-66dc-4cd5-94c1-bcb88e8383ee))
     (pin "9" (uuid de344baa-f13b-4ab3-a582-dbb4d3694d22))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U1") (unit 1)
         )
@@ -17138,7 +17138,7 @@
     )
     (pin "1" (uuid 72eaad29-8596-4655-8657-37ebf0d92000))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0484") (unit 1)
         )
@@ -17163,7 +17163,7 @@
     )
     (pin "1" (uuid acb0fde0-4834-4235-a6db-81580d9a900b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0276") (unit 1)
         )
@@ -17188,7 +17188,7 @@
     )
     (pin "1" (uuid c8a84d61-1ad9-49dd-aed8-f5da0649e28a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0302") (unit 1)
         )
@@ -17228,7 +17228,7 @@
     (pin "8" (uuid a04c8649-5b10-45d7-87f0-9f6282858fa5))
     (pin "9" (uuid 614dbc99-6d49-4007-8191-720cad731a03))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L50") (unit 1)
         )
@@ -17253,7 +17253,7 @@
     )
     (pin "1" (uuid b190bd38-b9b9-4303-ad78-bfec4bf385bd))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0381") (unit 1)
         )
@@ -17293,7 +17293,7 @@
     (pin "8" (uuid 1edc3ee2-1547-4974-97ff-cc73d0660e5c))
     (pin "9" (uuid be3af0c7-c60c-42db-89e0-919885549f88))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L14") (unit 1)
         )
@@ -17318,7 +17318,7 @@
     )
     (pin "1" (uuid 6711a5fc-8c68-4edd-9a3b-75e87254bc9e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0144") (unit 1)
         )
@@ -17343,7 +17343,7 @@
     )
     (pin "1" (uuid 11a22ac5-2c31-498c-85e1-5b9bad437e64))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0475") (unit 1)
         )
@@ -17368,7 +17368,7 @@
     )
     (pin "1" (uuid c0d3d0f4-7922-42cf-b7e8-0fa1c26ee952))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0358") (unit 1)
         )
@@ -17393,7 +17393,7 @@
     )
     (pin "1" (uuid 99436193-9a27-4450-97d7-d6dcf37b4057))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0380") (unit 1)
         )
@@ -17418,7 +17418,7 @@
     )
     (pin "1" (uuid 5d4a983b-1523-4163-9fea-2d59712ba46c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0444") (unit 1)
         )
@@ -17443,7 +17443,7 @@
     )
     (pin "1" (uuid dae61cd1-29d9-46c4-aacd-8b88ba2da3f2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG080") (unit 1)
         )
@@ -17468,7 +17468,7 @@
     )
     (pin "1" (uuid ff53d5e1-dbdc-4d6c-8e4b-1a87d718017f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0428") (unit 1)
         )
@@ -17508,7 +17508,7 @@
     (pin "8" (uuid 84ea303e-391d-45f1-a88e-772eb957a43b))
     (pin "9" (uuid 386403ef-f4ec-49b5-938c-d7264e69bdbc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L37") (unit 1)
         )
@@ -17533,7 +17533,7 @@
     )
     (pin "1" (uuid 2b127c03-c634-4e7b-acaa-0979cfe23e9f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0376") (unit 1)
         )
@@ -17558,7 +17558,7 @@
     )
     (pin "1" (uuid 59f88234-bd49-4b78-8ffd-b1c9ee3f54c4))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG054") (unit 1)
         )
@@ -17583,7 +17583,7 @@
     )
     (pin "1" (uuid 8cacdd4d-32d2-49aa-a161-41c568a23fcc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0430") (unit 1)
         )
@@ -17608,7 +17608,7 @@
     )
     (pin "1" (uuid b542abf0-ea1b-4f58-8977-a85c5be2efdc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0331") (unit 1)
         )
@@ -17633,7 +17633,7 @@
     )
     (pin "1" (uuid 13a71e05-5a93-4c04-8c95-78b49fdc27ae))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0230") (unit 1)
         )
@@ -17658,7 +17658,7 @@
     )
     (pin "1" (uuid 5a41f92b-aa61-4534-886c-626d1d6a50c0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0239") (unit 1)
         )
@@ -17698,7 +17698,7 @@
     (pin "8" (uuid 2170e19b-b00b-4a78-8284-a1f82f234066))
     (pin "9" (uuid c3ee88db-46b5-47e8-8082-897af0c8c029))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L10") (unit 1)
         )
@@ -17723,7 +17723,7 @@
     )
     (pin "1" (uuid a1ed43ff-a676-4daa-ba75-b42bde1ae4f5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG047") (unit 1)
         )
@@ -17748,7 +17748,7 @@
     )
     (pin "1" (uuid 99398aef-008a-45b6-baf8-a0bcc67088d7))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0176") (unit 1)
         )
@@ -17773,7 +17773,7 @@
     )
     (pin "1" (uuid 6245fb01-b2cf-4068-bae5-b22df13f20e6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0243") (unit 1)
         )
@@ -17798,7 +17798,7 @@
     )
     (pin "1" (uuid 7227334d-1869-477d-96e0-ca04ae5fe91e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP3") (unit 1)
         )
@@ -17823,7 +17823,7 @@
     )
     (pin "1" (uuid bdabe57b-b2c3-4bea-ad81-1c0cd09fa2e6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0141") (unit 1)
         )
@@ -17848,7 +17848,7 @@
     )
     (pin "1" (uuid 45d5e289-5c49-4255-89f4-7f5802e02f6b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0165") (unit 1)
         )
@@ -17873,7 +17873,7 @@
     )
     (pin "1" (uuid bbc6d784-fb55-4878-91e4-3ebbb8bf8d8b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0133") (unit 1)
         )
@@ -17898,7 +17898,7 @@
     )
     (pin "1" (uuid 2ff983a3-1c37-4090-9577-a761e90b0de6))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0290") (unit 1)
         )
@@ -17938,7 +17938,7 @@
     (pin "8" (uuid f6fb73d0-83cb-4d40-983a-0414c90d79df))
     (pin "9" (uuid c728c64f-4800-41d7-ab84-02693a344665))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L5") (unit 1)
         )
@@ -17963,7 +17963,7 @@
     )
     (pin "1" (uuid 96fe491e-90a5-4622-90f3-4d9bb1ad7c7c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG078") (unit 1)
         )
@@ -18003,7 +18003,7 @@
     (pin "8" (uuid 8f4f191c-4679-4ca9-b3d3-a82dcbec4c5f))
     (pin "9" (uuid 5b74c4a0-c887-42c8-a217-6f8e51b50594))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L54") (unit 1)
         )
@@ -18028,7 +18028,7 @@
     )
     (pin "1" (uuid 8dd0bd3a-06c3-4c69-aa76-1c30e4e68ffc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0253") (unit 1)
         )
@@ -18053,7 +18053,7 @@
     )
     (pin "1" (uuid b912ee16-5529-4391-a5e0-f9fedb114dbc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG062") (unit 1)
         )
@@ -18078,7 +18078,7 @@
     )
     (pin "1" (uuid 689c6baa-5b34-4411-93cf-6fa4976dbbd4))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG06") (unit 1)
         )
@@ -18103,7 +18103,7 @@
     )
     (pin "1" (uuid 395f50c1-1334-42b4-bb1e-2bef253f44eb))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0306") (unit 1)
         )
@@ -18143,7 +18143,7 @@
     (pin "8" (uuid 9c1dd3a6-972c-4e23-8f85-ad286e8a15ac))
     (pin "9" (uuid a73ab131-7360-4da8-9c0c-14be2d5e4ace))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L46") (unit 1)
         )
@@ -18168,7 +18168,7 @@
     )
     (pin "1" (uuid d83e746f-f895-44dd-82de-38f375fd19b9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0143") (unit 1)
         )
@@ -18193,7 +18193,7 @@
     )
     (pin "1" (uuid eca10e37-c371-499a-bc86-17e87b45424d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG04") (unit 1)
         )
@@ -18218,7 +18218,7 @@
     )
     (pin "1" (uuid c97e3ec8-97d5-4120-ad57-d25a555088d2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG034") (unit 1)
         )
@@ -18243,7 +18243,7 @@
     )
     (pin "1" (uuid 685960b5-2aee-4a99-8645-458f7766c9c3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0127") (unit 1)
         )
@@ -18268,7 +18268,7 @@
     )
     (pin "1" (uuid 2b977891-4794-40e1-a6e1-71c455356c2e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0305") (unit 1)
         )
@@ -18293,7 +18293,7 @@
     )
     (pin "1" (uuid b2fe245f-76f0-4274-aec4-36b060ff3ac8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG037") (unit 1)
         )
@@ -18333,7 +18333,7 @@
     (pin "8" (uuid 500cf39f-a826-417f-9ad4-6deef53e17ee))
     (pin "9" (uuid c1345eb5-20bb-4bb8-912e-6fcfc44925de))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L31") (unit 1)
         )
@@ -18358,7 +18358,7 @@
     )
     (pin "1" (uuid b250f625-fc31-46c6-b78b-41df194750bf))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0411") (unit 1)
         )
@@ -18383,7 +18383,7 @@
     )
     (pin "1" (uuid 47f43f2e-ee5d-4fc0-aeaf-c30240c3752a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0270") (unit 1)
         )
@@ -18408,7 +18408,7 @@
     )
     (pin "1" (uuid 08b0b6ad-62d8-4eff-91a6-2139d0c638b9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0413") (unit 1)
         )
@@ -18433,7 +18433,7 @@
     )
     (pin "1" (uuid 4e06f3d1-9377-46bb-bd8d-c08ce4cb5a79))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP2") (unit 1)
         )
@@ -18458,7 +18458,7 @@
     )
     (pin "1" (uuid 49e7e1ae-f78a-49ba-9378-5cac3330e920))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0111") (unit 1)
         )
@@ -18483,7 +18483,7 @@
     )
     (pin "1" (uuid 1db9a541-9f71-4eac-af08-6c84e4602ad5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0447") (unit 1)
         )
@@ -18508,7 +18508,7 @@
     )
     (pin "1" (uuid ed998408-f467-4836-9ca7-b68839e53720))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0497") (unit 1)
         )
@@ -18533,7 +18533,7 @@
     )
     (pin "1" (uuid 864b40d0-32e7-4075-8115-a47b9a1eea7d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG028") (unit 1)
         )
@@ -18573,7 +18573,7 @@
     (pin "8" (uuid f3365353-b131-4779-89cc-e389526c8faa))
     (pin "9" (uuid 91c00ea8-2dce-4cbf-9fae-4c08070db362))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L27") (unit 1)
         )
@@ -18613,7 +18613,7 @@
     (pin "8" (uuid b38495fa-5ecd-4c7f-972f-cef5ee635614))
     (pin "9" (uuid fe6f4c51-24ab-401e-b679-356e54ab044a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L62") (unit 1)
         )
@@ -18638,7 +18638,7 @@
     )
     (pin "1" (uuid 4790d3d1-a022-47be-b8b1-19930aac2ed8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0207") (unit 1)
         )
@@ -18671,7 +18671,7 @@
     (pin "8" (uuid f0e33651-0da0-4fa6-9a22-75ce0d76de99))
     (pin "9" (uuid 7c1cd74f-ef5f-4b86-a115-d97527514bb0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "U14") (unit 1)
         )
@@ -18696,7 +18696,7 @@
     )
     (pin "1" (uuid 75a66fcb-3928-4e38-876a-2b57632806d1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0299") (unit 1)
         )
@@ -18736,7 +18736,7 @@
     (pin "8" (uuid 388fd4a7-dfd6-49ba-ad42-d860a60aac3d))
     (pin "9" (uuid c8720727-56a8-40d0-b166-f60482e9184e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L58") (unit 1)
         )
@@ -18761,7 +18761,7 @@
     )
     (pin "1" (uuid c986922d-f189-4446-ae30-721831addd78))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG052") (unit 1)
         )
@@ -18786,7 +18786,7 @@
     )
     (pin "1" (uuid ee90d5b7-179a-4dab-9ef4-9a211f019d24))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0172") (unit 1)
         )
@@ -18826,7 +18826,7 @@
     (pin "8" (uuid f143f414-f816-452d-987b-d3c9c3dbefcb))
     (pin "9" (uuid 91c77577-254d-477d-a7dc-44de2d0e1f4f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L8") (unit 1)
         )
@@ -18851,7 +18851,7 @@
     )
     (pin "1" (uuid 9872899c-18ca-495d-99d8-45f948ae2b84))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0333") (unit 1)
         )
@@ -18876,7 +18876,7 @@
     )
     (pin "1" (uuid 38e6e21a-1687-4a9f-948c-cbc6f5270322))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0407") (unit 1)
         )
@@ -18901,7 +18901,7 @@
     )
     (pin "1" (uuid 56a46aa4-2c32-451b-bcc4-cacb35a05303))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0246") (unit 1)
         )
@@ -18926,7 +18926,7 @@
     )
     (pin "1" (uuid e8dbadb4-8f95-4105-932f-0f5f0b6d582f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0418") (unit 1)
         )
@@ -18951,7 +18951,7 @@
     )
     (pin "1" (uuid ec9afa89-0a3c-4072-bc2d-2b9402d809fe))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0321") (unit 1)
         )
@@ -18991,7 +18991,7 @@
     (pin "8" (uuid b580fa67-9ef7-4718-a1fc-338fc9de2d4d))
     (pin "9" (uuid 1faa1821-79b1-482b-b981-5222e6160bec))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L7") (unit 1)
         )
@@ -19016,7 +19016,7 @@
     )
     (pin "1" (uuid f98ed8cd-d2d2-4375-8749-44b840925136))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP7") (unit 1)
         )
@@ -19041,7 +19041,7 @@
     )
     (pin "1" (uuid 1261181d-41fc-42c4-a17c-e9ee5e58f37e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0414") (unit 1)
         )
@@ -19081,7 +19081,7 @@
     (pin "8" (uuid 269c3162-5356-4927-aa59-104f02f748a6))
     (pin "9" (uuid e0677ef6-f6bf-401f-b644-af3d15bf7892))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L15") (unit 1)
         )
@@ -19106,7 +19106,7 @@
     )
     (pin "1" (uuid e3e055d6-87e8-4147-9d21-fab718817fd3))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0225") (unit 1)
         )
@@ -19131,7 +19131,7 @@
     )
     (pin "1" (uuid 67262d09-28cb-4115-8866-7d0295827525))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0155") (unit 1)
         )
@@ -19156,7 +19156,7 @@
     )
     (pin "1" (uuid b0ea122a-ffb2-44bd-af10-59bd2cb3ad7c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG081") (unit 1)
         )
@@ -19181,7 +19181,7 @@
     )
     (pin "1" (uuid 9ac06ef1-84d8-445c-a85d-8c64e76ba176))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0205") (unit 1)
         )
@@ -19206,7 +19206,7 @@
     )
     (pin "1" (uuid fccb46ec-d595-47f2-aee1-c6d69be8a98a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG088") (unit 1)
         )
@@ -19231,7 +19231,7 @@
     )
     (pin "1" (uuid 5c4726f7-f7c8-46db-b3b0-a50ca143952b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0191") (unit 1)
         )
@@ -19271,7 +19271,7 @@
     (pin "8" (uuid 2040dbc1-1863-4654-b013-aba8eaff6fc6))
     (pin "9" (uuid c5a99247-a2d9-4a70-b3a2-07b15299c18e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L63") (unit 1)
         )
@@ -19296,7 +19296,7 @@
     )
     (pin "1" (uuid d8bb22b3-032c-47f6-aaf2-d9a2eeb25db5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0356") (unit 1)
         )
@@ -19321,7 +19321,7 @@
     )
     (pin "1" (uuid 7708c05d-4ec3-46ff-8eb3-2ce5a276fc36))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0499") (unit 1)
         )
@@ -19346,7 +19346,7 @@
     )
     (pin "1" (uuid 97d303f5-ae50-4989-b386-2f0611287bd1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0166") (unit 1)
         )
@@ -19371,7 +19371,7 @@
     )
     (pin "1" (uuid ba9ff0da-4218-40a6-89d7-4f4b4a875cb8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0260") (unit 1)
         )
@@ -19396,7 +19396,7 @@
     )
     (pin "1" (uuid 70cd90a3-9ad7-494c-b0a1-d12dee91002e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0221") (unit 1)
         )
@@ -19421,7 +19421,7 @@
     )
     (pin "1" (uuid 9ce933b2-1975-47fd-b02f-3d504ad664e1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0245") (unit 1)
         )
@@ -19446,7 +19446,7 @@
     )
     (pin "1" (uuid 32a61cf7-b360-4056-b5b5-77e183b8b66b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG025") (unit 1)
         )
@@ -19471,7 +19471,7 @@
     )
     (pin "1" (uuid 2aa6d408-f14f-4b6d-b11d-780699e9a7b4))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG03") (unit 1)
         )
@@ -19496,7 +19496,7 @@
     )
     (pin "1" (uuid 74282ad4-ba6e-4558-8a03-e1d8282e9b5f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0405") (unit 1)
         )
@@ -19521,7 +19521,7 @@
     )
     (pin "1" (uuid 00e2ab19-d76f-44ab-bafb-9ed819e02612))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0202") (unit 1)
         )
@@ -19546,7 +19546,7 @@
     )
     (pin "1" (uuid 2d5fea7b-4e89-482f-90a5-7b89d6e156d4))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0482") (unit 1)
         )
@@ -19571,7 +19571,7 @@
     )
     (pin "1" (uuid a9e9ee53-8ffc-4525-beb8-aad49e849a6b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0335") (unit 1)
         )
@@ -19596,7 +19596,7 @@
     )
     (pin "1" (uuid fd040263-79a3-471a-901c-d739d59d23ad))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0423") (unit 1)
         )
@@ -19621,7 +19621,7 @@
     )
     (pin "1" (uuid ab1af18f-6864-4987-8e6e-5a4faccaa7b2))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0223") (unit 1)
         )
@@ -19646,7 +19646,7 @@
     )
     (pin "1" (uuid c1a97386-f913-4b19-b8ec-0bbde35d6d4f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP10") (unit 1)
         )
@@ -19671,7 +19671,7 @@
     )
     (pin "1" (uuid c4c94398-3458-4645-9cb0-08b08f427187))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG022") (unit 1)
         )
@@ -19696,7 +19696,7 @@
     )
     (pin "1" (uuid 1a40563e-41b9-44f6-899e-468020f6c272))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0412") (unit 1)
         )
@@ -19721,7 +19721,7 @@
     )
     (pin "1" (uuid 21e48590-aaf8-454b-96a7-7690978a7f40))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0189") (unit 1)
         )
@@ -19746,7 +19746,7 @@
     )
     (pin "1" (uuid 7a7d8fdc-b499-45c9-8098-e8041e223e80))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0389") (unit 1)
         )
@@ -19771,7 +19771,7 @@
     )
     (pin "1" (uuid ed842025-2cb8-4ff6-9d26-ef95195629bf))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0183") (unit 1)
         )
@@ -19796,7 +19796,7 @@
     )
     (pin "1" (uuid d45a964d-b3a2-4e98-a09b-ec18194f8aa1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0461") (unit 1)
         )
@@ -19813,7 +19813,7 @@
     (property "Value" "Conn_01x01" (at 45.72 217.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x01_P2.00mm_Horizontal" (at 45.72 214.63 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Horizontal" (at 45.72 214.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 45.72 214.63 0)
@@ -19821,7 +19821,7 @@
     )
     (pin "1" (uuid 08a6539c-a3f7-4444-8529-101f48242850))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "J2") (unit 1)
         )
@@ -19846,7 +19846,7 @@
     )
     (pin "1" (uuid 2d3ef7e5-2837-4123-afeb-ca01c14fb045))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0426") (unit 1)
         )
@@ -19871,7 +19871,7 @@
     )
     (pin "1" (uuid c57e13f1-0d30-4199-9576-c5f4f84af297))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0462") (unit 1)
         )
@@ -19896,7 +19896,7 @@
     )
     (pin "1" (uuid 02937255-0faf-4bec-bb8a-7a50f8ea9da0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0427") (unit 1)
         )
@@ -19921,7 +19921,7 @@
     )
     (pin "1" (uuid f9c011d5-b355-4c21-80cf-5ee5e6dcdcf4))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0250") (unit 1)
         )
@@ -19946,7 +19946,7 @@
     )
     (pin "1" (uuid 235b6a02-ccae-486e-8cb0-30c10d79421b))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0382") (unit 1)
         )
@@ -19971,7 +19971,7 @@
     )
     (pin "1" (uuid 9ea9795c-39fd-4bf8-a275-ee8119d6ac97))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0264") (unit 1)
         )
@@ -19996,7 +19996,7 @@
     )
     (pin "1" (uuid 55dc1b88-cd08-4e6b-b7b7-160723d885d0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0226") (unit 1)
         )
@@ -20021,7 +20021,7 @@
     )
     (pin "1" (uuid cfdb53c6-4943-43a8-b9f8-f1776e56cbc8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0340") (unit 1)
         )
@@ -20046,7 +20046,7 @@
     )
     (pin "1" (uuid 44611131-cb9d-4966-bfbc-877c8cc9b72d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0471") (unit 1)
         )
@@ -20071,7 +20071,7 @@
     )
     (pin "1" (uuid 7c8bc86a-5221-4c52-b98b-16a1dfc58d38))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG064") (unit 1)
         )
@@ -20088,7 +20088,7 @@
     (property "Value" "Conn_01x01" (at 45.72 220.98 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinSocket_2.00mm:PinSocket_1x01_P2.00mm_Horizontal" (at 45.72 218.44 0)
+    (property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Horizontal" (at 45.72 218.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 45.72 218.44 0)
@@ -20096,7 +20096,7 @@
     )
     (pin "1" (uuid 641626b1-d956-4a8c-81bd-55c37ca5efed))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "J4") (unit 1)
         )
@@ -20121,7 +20121,7 @@
     )
     (pin "1" (uuid a0090058-f1d0-4fcb-857c-151383713033))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0257") (unit 1)
         )
@@ -20146,7 +20146,7 @@
     )
     (pin "1" (uuid f21f4860-25ee-4891-a9a4-74e6cc90a1e5))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0231") (unit 1)
         )
@@ -20171,7 +20171,7 @@
     )
     (pin "1" (uuid aa90ff1f-4518-43cc-8d0b-9ac8bae8b2b0))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0342") (unit 1)
         )
@@ -20196,7 +20196,7 @@
     )
     (pin "1" (uuid 172feb33-0930-4911-aa20-5cfedf22cc78))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0346") (unit 1)
         )
@@ -20221,7 +20221,7 @@
     )
     (pin "1" (uuid daffaaa2-88a2-400b-85d2-50486f72f05c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0222") (unit 1)
         )
@@ -20246,7 +20246,7 @@
     )
     (pin "1" (uuid 3507d2bc-0d56-4b03-aa21-54a44c339f8c))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0123") (unit 1)
         )
@@ -20271,7 +20271,7 @@
     )
     (pin "1" (uuid 302a57d9-4db5-4f71-8037-55fe22107533))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG019") (unit 1)
         )
@@ -20296,7 +20296,7 @@
     )
     (pin "1" (uuid 65effdb4-c321-48e8-b1d7-e6a81e05b5e8))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0327") (unit 1)
         )
@@ -20321,7 +20321,7 @@
     )
     (pin "1" (uuid 24becdb0-b66e-4696-989c-785cca5fc7e7))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0292") (unit 1)
         )
@@ -20361,7 +20361,7 @@
     (pin "8" (uuid 1e743382-b7ea-446a-bab7-d18339410d71))
     (pin "9" (uuid 71c73e94-af24-4273-a2d8-a8887deb5a8d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L41") (unit 1)
         )
@@ -20386,7 +20386,7 @@
     )
     (pin "1" (uuid eeea16c4-b811-42c2-9dbd-58293aa6eb91))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG096") (unit 1)
         )
@@ -20411,7 +20411,7 @@
     )
     (pin "1" (uuid ec767aec-111c-49f8-b6f1-21e78c78a657))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0113") (unit 1)
         )
@@ -20436,7 +20436,7 @@
     )
     (pin "1" (uuid 3f161780-794e-4226-a7d7-dd87a0980c2e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG079") (unit 1)
         )
@@ -20461,7 +20461,7 @@
     )
     (pin "1" (uuid bef9af62-c484-4f7e-9306-cc8821e5bd38))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0457") (unit 1)
         )
@@ -20486,7 +20486,7 @@
     )
     (pin "1" (uuid dc8a92a2-f6f1-4358-ad18-959831fdcd5e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0318") (unit 1)
         )
@@ -20511,7 +20511,7 @@
     )
     (pin "1" (uuid a0866edb-9ef4-4cc3-91a3-1f96a065ed69))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0139") (unit 1)
         )
@@ -20536,7 +20536,7 @@
     )
     (pin "1" (uuid f8a5bbde-2fb1-4915-8558-805f8a684c3a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0173") (unit 1)
         )
@@ -20561,7 +20561,7 @@
     )
     (pin "1" (uuid d079939e-0ddc-4301-8a35-9cd6c8d2f2ca))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG092") (unit 1)
         )
@@ -20586,7 +20586,7 @@
     )
     (pin "1" (uuid bce4e0e9-ff76-4904-845c-3a824565e6b9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0128") (unit 1)
         )
@@ -20611,7 +20611,7 @@
     )
     (pin "1" (uuid 495681b1-ff05-40e6-a34f-ebd07bdee0dc))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0198") (unit 1)
         )
@@ -20636,7 +20636,7 @@
     )
     (pin "1" (uuid fda5c5da-ae20-4b6f-b04e-4161e1b2c09a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0383") (unit 1)
         )
@@ -20676,7 +20676,7 @@
     (pin "8" (uuid 618f5b5d-d36d-485b-9a99-3bf7741a3db8))
     (pin "9" (uuid 41a0c109-2504-4c7b-bba7-282b1d8a2d35))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L59") (unit 1)
         )
@@ -20701,7 +20701,7 @@
     )
     (pin "1" (uuid 6c628050-e2cf-4e1f-b918-088fbbceb653))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0186") (unit 1)
         )
@@ -20726,7 +20726,7 @@
     )
     (pin "1" (uuid 01c85da7-7f3d-45e2-a565-7e776824b762))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0177") (unit 1)
         )
@@ -20751,7 +20751,7 @@
     )
     (pin "1" (uuid 6dcf2a26-ab12-447e-91ba-65d64f0b0268))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0386") (unit 1)
         )
@@ -20776,7 +20776,7 @@
     )
     (pin "1" (uuid 7bd2d19d-efb7-44f5-a47a-e5301ca15af9))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0109") (unit 1)
         )
@@ -20816,7 +20816,7 @@
     (pin "8" (uuid e42c155c-ce34-4e83-bcc7-f0f860ee645d))
     (pin "9" (uuid 7e85eb76-57fb-47c6-b220-542e06901df1))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L49") (unit 1)
         )
@@ -20841,7 +20841,7 @@
     )
     (pin "1" (uuid 8a4b2885-f6cb-4c32-9f24-3b86ed135417))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0234") (unit 1)
         )
@@ -20881,7 +20881,7 @@
     (pin "8" (uuid 01c864eb-4f7c-46f7-b101-ea30499d6909))
     (pin "9" (uuid 0b49db6a-d356-4512-a3d3-711c6a982bf7))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L57") (unit 1)
         )
@@ -20906,7 +20906,7 @@
     )
     (pin "1" (uuid d1d60a87-2a02-4876-a2ab-6ec5bab83aab))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG014") (unit 1)
         )
@@ -20931,7 +20931,7 @@
     )
     (pin "1" (uuid 8fa4de39-edd1-462a-b3d0-433465a8738d))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "JMP9") (unit 1)
         )
@@ -20956,7 +20956,7 @@
     )
     (pin "1" (uuid 5e430288-23b3-4d01-8260-9379ad67f773))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0374") (unit 1)
         )
@@ -20981,7 +20981,7 @@
     )
     (pin "1" (uuid fe1561f6-191a-4de6-839a-19769734da18))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0157") (unit 1)
         )
@@ -21006,7 +21006,7 @@
     )
     (pin "1" (uuid 696327ee-c03f-4aff-b0ab-d015ff1cf0cd))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0216") (unit 1)
         )
@@ -21031,7 +21031,7 @@
     )
     (pin "1" (uuid 2e6eb5ff-ab84-47a5-aa71-d40fb0c8e392))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0175") (unit 1)
         )
@@ -21056,7 +21056,7 @@
     )
     (pin "1" (uuid bcffd965-3c9d-417b-ae00-c134ada4918f))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0443") (unit 1)
         )
@@ -21081,7 +21081,7 @@
     )
     (pin "1" (uuid 20263ced-74b7-4c89-9b20-7baab4ae079a))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0298") (unit 1)
         )
@@ -21106,7 +21106,7 @@
     )
     (pin "1" (uuid 1f3d87f6-af93-49d0-b12a-379c912fbdf4))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0504") (unit 1)
         )
@@ -21146,7 +21146,7 @@
     (pin "8" (uuid 4044efa0-6f65-48be-ad91-c9f9b072a798))
     (pin "9" (uuid e448290d-1aae-4a35-98ab-abf9d8891b42))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "L19") (unit 1)
         )
@@ -21171,7 +21171,7 @@
     )
     (pin "1" (uuid 564386bc-7f96-40c2-b0fd-993d6b93d549))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG0277") (unit 1)
         )
@@ -21196,7 +21196,7 @@
     )
     (pin "1" (uuid fe895efd-727e-4539-a26a-894e3d043b7e))
     (instances
-      (project "TacTile-upper"
+      (project "TacTile-A"
         (path "/6df59fdc-9f0d-414b-89c2-ac236518910e"
           (reference "#FLG077") (unit 1)
         )
