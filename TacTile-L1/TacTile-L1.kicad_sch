@@ -405,11 +405,11 @@
     (uuid ff61776b-9941-4f51-aa52-03363f14c3ad)
   )
 
-  (label "VCC" (at 33.02 53.34 0) (fields_autoplaced)
+  (label "VCC" (at 33.02 54.61 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 93261f81-af4c-4cd9-ada5-715ab25077dc)
   )
-  (label "GND" (at 20.32 53.34 180) (fields_autoplaced)
+  (label "GND" (at 20.32 54.61 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid cbc58f72-347a-4729-bdee-7e993cacb6c9)
   )
