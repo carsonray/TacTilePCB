@@ -439,7 +439,7 @@
         "name": "High_Current",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 1.0,
+        "track_width": 2.0,
         "via_diameter": 1.0,
         "via_drill": 0.4,
         "wire_width": 6
