@@ -1887,7 +1887,7 @@
     (property "Value" "74HC08" (at 102.8617 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 102.87 88.9 0)
+    (property "Footprint" "Package_DIP:DIP-14_W7.62mm" (at 102.87 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd74hct08.pdf" (at 102.87 88.9 0)
