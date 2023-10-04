@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\carso\OneDrive - Roanoke City Public Schools\12th Grade\Engineering\TacTile\PCB\TacTile\TacTile-L1\TacTile-L1.kicad_sch</source>
+    <date>10/3/2023 10:47:58 PM</date>
+    <tool>Eeschema 7.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TacTile-L1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-L1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbdc85f7-6dd0-4149-814c-b66c80af5ee4</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-L1.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26bc880d-fbf9-4957-9b9a-12b487262850</tstamps>
+    </comp>
+    <comp ref="LD1">
+      <value>D_Laser_1C2A</value>
+      <footprint>TacTile:Laser_Diode</footprint>
+      <libsource lib="Device" part="D_Laser_1C2A" description="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-L1.kicad_sch"/>
+      <property name="ki_description" value="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="ki_keywords" value="opto laserdiode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a485b91-f588-481e-b03c-e88c43a5da4c</tstamps>
+    </comp>
+    <comp ref="LD2">
+      <value>D_Laser_1C2A</value>
+      <footprint>TacTile:Laser_Diode</footprint>
+      <libsource lib="Device" part="D_Laser_1C2A" description="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-L1.kicad_sch"/>
+      <property name="ki_description" value="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="ki_keywords" value="opto laserdiode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4317e78b-063e-4471-87b3-0d713334add0</tstamps>
+    </comp>
+    <comp ref="LD3">
+      <value>D_Laser_1C2A</value>
+      <footprint>TacTile:Laser_Diode</footprint>
+      <libsource lib="Device" part="D_Laser_1C2A" description="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-L1.kicad_sch"/>
+      <property name="ki_description" value="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="ki_keywords" value="opto laserdiode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>868e4fcc-855b-4ba8-98c6-5f8f8a62344f</tstamps>
+    </comp>
+    <comp ref="LD4">
+      <value>D_Laser_1C2A</value>
+      <footprint>TacTile:Laser_Diode</footprint>
+      <libsource lib="Device" part="D_Laser_1C2A" description="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-L1.kicad_sch"/>
+      <property name="ki_description" value="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="ki_keywords" value="opto laserdiode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8df84f5a-07e5-494f-8691-0c102bccd208</tstamps>
+    </comp>
+    <comp ref="LD5">
+      <value>D_Laser_1C2A</value>
+      <footprint>TacTile:Laser_Diode</footprint>
+      <libsource lib="Device" part="D_Laser_1C2A" description="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-L1.kicad_sch"/>
+      <property name="ki_description" value="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="ki_keywords" value="opto laserdiode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>110b9281-ff37-4c1e-b458-43bc065eeb70</tstamps>
+    </comp>
+    <comp ref="LD6">
+      <value>D_Laser_1C2A</value>
+      <footprint>TacTile:Laser_Diode</footprint>
+      <libsource lib="Device" part="D_Laser_1C2A" description="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-L1.kicad_sch"/>
+      <property name="ki_description" value="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="ki_keywords" value="opto laserdiode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63b904e3-43cc-4a6e-9538-8aa0669172f0</tstamps>
+    </comp>
+    <comp ref="LD7">
+      <value>D_Laser_1C2A</value>
+      <footprint>TacTile:Laser_Diode</footprint>
+      <libsource lib="Device" part="D_Laser_1C2A" description="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-L1.kicad_sch"/>
+      <property name="ki_description" value="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="ki_keywords" value="opto laserdiode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcbe0aae-5c60-48d2-ae67-0b641324f69b</tstamps>
+    </comp>
+    <comp ref="LD8">
+      <value>D_Laser_1C2A</value>
+      <footprint>TacTile:Laser_Diode</footprint>
+      <libsource lib="Device" part="D_Laser_1C2A" description="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-L1.kicad_sch"/>
+      <property name="ki_description" value="Laser diode, cathode on pin 1, anode on pin 2"/>
+      <property name="ki_keywords" value="opto laserdiode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a170199f-6f1f-45ba-ae55-b8581bcb02b3</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Laser_1C2A">
+      <description>Laser diode, cathode on pin 1, anode on pin 2</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*LaserDiode*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">LD</field>
+        <field name="Value">D_Laser_1C2A</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/GND">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="LD1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LD2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LD3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LD4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LD5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LD6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LD7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LD8" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="2" name="/VCC">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="LD1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LD2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LD3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LD4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LD5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LD6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LD7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="LD8" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+  </nets>
+</export>

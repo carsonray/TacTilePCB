@@ -1,0 +1,3485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\carso\OneDrive - Roanoke City Public Schools\12th Grade\Engineering\TacTile\PCB\TacTile\TacTile-B\TacTile-B.kicad_sch</source>
+    <date>10/3/2023 10:47:06 PM</date>
+    <tool>Eeschema 7.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TacTile-B.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc8e5952-1b61-4e01-8113-000f5d8fc89a</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14b13936-1097-4f73-82ff-d82a5638ebb8</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c50c1b2-749d-4f25-afb3-d42ffadb0459</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>707b509c-9b79-4898-a08d-cfee7c924a6b</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3a33d49-f374-4a7d-9a04-4c9dad58425b</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7968620-e48e-4834-b8fa-42f17a668ece</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcfadf1d-70d9-41c8-a499-788cfc885cc3</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04746c6a-6f1f-406b-83d0-88bf4c2ad0b9</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f2a315b-46c4-4492-99d2-a0ec97443182</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d26361c4-177e-4ab4-9720-2a51b45963e5</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5abeec0-4065-4e2a-af5e-4ddbdee7e1c4</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95b4f572-16e1-4794-b3af-464c0625667a</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c713a788-cf4f-4544-9798-ee82e61bc090</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>077f6f84-af7b-4679-a85e-39de2c67f9c9</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a04a232-946d-49f9-9454-e1f15a40e238</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>294bf567-dbb4-465e-b292-75912ddda018</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>Conn_01x02</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5585064c-6183-4796-8143-b1417bd3c491</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61dcde12-30af-4add-8af4-9bc32378170f</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0209d628-7145-456f-81e0-84da7a296c5a</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82a7b088-823c-4923-85ce-07359a44ea5b</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b26f9af5-0ea5-4894-8219-06345b4b1152</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efa9fb3b-59eb-4c2d-980f-730e9be098dc</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>160b0265-9ff3-46f3-8fd1-1f00352496c0</tstamps>
+    </comp>
+    <comp ref="L7">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f2264e4-2a03-46f6-9965-92db7f4d82f6</tstamps>
+    </comp>
+    <comp ref="L8">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c2d03e6-ee03-4e76-a0ca-46646b9913ae</tstamps>
+    </comp>
+    <comp ref="L9">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39b4c6e0-5222-4e58-ae51-2c4a3a6d048a</tstamps>
+    </comp>
+    <comp ref="L10">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff874792-895a-4850-8efb-bc5377186c36</tstamps>
+    </comp>
+    <comp ref="L11">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42d0c473-e76b-4451-abe9-14ba6a220119</tstamps>
+    </comp>
+    <comp ref="L12">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30bc1690-9b03-490d-ac10-afba10b9d14b</tstamps>
+    </comp>
+    <comp ref="L13">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb4523d2-9907-4ed1-9554-9b05ae75a15f</tstamps>
+    </comp>
+    <comp ref="L14">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9668f027-40db-48e2-93c0-62fc98872ce8</tstamps>
+    </comp>
+    <comp ref="L15">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5b29d10-b504-467f-90d4-3a963bbe2092</tstamps>
+    </comp>
+    <comp ref="L16">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24d78254-1e63-4dc6-b7e2-1c011bfa67cb</tstamps>
+    </comp>
+    <comp ref="L17">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9867726-0383-4821-8097-8c59a469ced7</tstamps>
+    </comp>
+    <comp ref="L18">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29f2a4bb-77fb-414f-8ca3-c344fd5f3d5f</tstamps>
+    </comp>
+    <comp ref="L19">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba3ef5cc-c662-4df0-acdd-eac746e7520c</tstamps>
+    </comp>
+    <comp ref="L20">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d138d775-a80e-4a1c-9b91-847eeb6cd411</tstamps>
+    </comp>
+    <comp ref="L21">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e8199b1-c49b-462b-a0b6-b928c02d37f3</tstamps>
+    </comp>
+    <comp ref="L22">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33339d8a-4e6d-4a90-b624-0257559217da</tstamps>
+    </comp>
+    <comp ref="L23">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba4a3d1a-37ab-4e87-b76a-f397e12886f9</tstamps>
+    </comp>
+    <comp ref="L24">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98b1255e-a74d-413b-b4dc-7a4cc9c74c63</tstamps>
+    </comp>
+    <comp ref="L25">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a4b8c54-61ca-48ac-91ad-721c3a50f341</tstamps>
+    </comp>
+    <comp ref="L26">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3ef701a-1b3d-488d-b02c-3bdb9f0c63de</tstamps>
+    </comp>
+    <comp ref="L27">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19a12073-9033-43f2-a459-b719547c3185</tstamps>
+    </comp>
+    <comp ref="L28">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84b08ceb-dc94-48f6-9d0f-58f83a089d23</tstamps>
+    </comp>
+    <comp ref="L29">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2a0b251-f239-4973-9c39-cf3b8df20afd</tstamps>
+    </comp>
+    <comp ref="L30">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>598af97d-ae34-4a1d-be09-9acd0527128b</tstamps>
+    </comp>
+    <comp ref="L31">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36f84bc6-dfdc-4dcc-8b3d-764e028cb21d</tstamps>
+    </comp>
+    <comp ref="L32">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc59d626-f5da-4e78-a3ca-ab970befc1f6</tstamps>
+    </comp>
+    <comp ref="L33">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2addd546-4460-45c3-9aae-f99c3915ce45</tstamps>
+    </comp>
+    <comp ref="L34">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d79f82e-0bfc-44df-ab6d-228f7449409c</tstamps>
+    </comp>
+    <comp ref="L35">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1af17275-e425-4b27-8ae1-401e7a2d1966</tstamps>
+    </comp>
+    <comp ref="L36">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2433ab3-9ed7-4a02-9ab2-4765d4d73632</tstamps>
+    </comp>
+    <comp ref="L37">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a3f09b6-2bd4-4be1-9634-f2274c294f87</tstamps>
+    </comp>
+    <comp ref="L38">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9b53cfaf-8e58-44e9-8f5e-107da4409438</tstamps>
+    </comp>
+    <comp ref="L39">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae7ab0da-12f8-4d1d-b967-549456a4f8c6</tstamps>
+    </comp>
+    <comp ref="L40">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>945f54bb-cf76-46e0-9766-95e14e58b61e</tstamps>
+    </comp>
+    <comp ref="L41">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54b8585f-a87d-46c7-b021-35999337c4d3</tstamps>
+    </comp>
+    <comp ref="L42">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f9275fd-ae82-4830-b368-d6c6168946f8</tstamps>
+    </comp>
+    <comp ref="L43">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c5b0836-31f1-4346-b660-5adb598bb3b5</tstamps>
+    </comp>
+    <comp ref="L44">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5c00044-2ee8-4138-aaab-52bb670ef18b</tstamps>
+    </comp>
+    <comp ref="L45">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>146cc725-7ca6-4714-a32f-79154465a787</tstamps>
+    </comp>
+    <comp ref="L46">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7dd5171-696f-4b41-ae91-cf2c758e1070</tstamps>
+    </comp>
+    <comp ref="L47">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>135abcf0-a494-41ba-a2e4-399c4db01686</tstamps>
+    </comp>
+    <comp ref="L48">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1650a621-d61d-4663-b409-8313e2308071</tstamps>
+    </comp>
+    <comp ref="L49">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e4371d7-3954-416b-9de9-8f2d8c828885</tstamps>
+    </comp>
+    <comp ref="L50">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8aad607-4cb9-4093-847f-49367e370ccb</tstamps>
+    </comp>
+    <comp ref="L51">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97552127-6edd-4362-a20b-e6f85b3d0af7</tstamps>
+    </comp>
+    <comp ref="L52">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9de39552-de83-447a-82c8-ed5a98d01b64</tstamps>
+    </comp>
+    <comp ref="L53">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f81beaa-3adf-4eb3-afad-122c025de24a</tstamps>
+    </comp>
+    <comp ref="L54">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1ab4416-4843-4d0c-b405-befc06e01ac2</tstamps>
+    </comp>
+    <comp ref="L55">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23bbaca7-bae1-48f9-b26d-be6999a644e6</tstamps>
+    </comp>
+    <comp ref="L56">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5806df29-4a96-430a-9c1e-015f5d64e580</tstamps>
+    </comp>
+    <comp ref="L57">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cd22710-2327-41b1-a041-87ae2a4bb641</tstamps>
+    </comp>
+    <comp ref="L58">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56a66fa8-5f16-45ed-b899-4048b10be021</tstamps>
+    </comp>
+    <comp ref="L59">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f51713a-19c5-4cdb-89af-f9aabdc70b3f</tstamps>
+    </comp>
+    <comp ref="L60">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>356e9291-44a4-4b2d-9c9a-16caf52a822e</tstamps>
+    </comp>
+    <comp ref="L61">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c3816e5-33c1-461f-878a-2b5213c1d0a3</tstamps>
+    </comp>
+    <comp ref="L62">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>360a69d9-1591-4f69-a75f-53dd65d5279a</tstamps>
+    </comp>
+    <comp ref="L63">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>806b4a30-c8a9-4ded-92d3-6d6f0c9bfbfa</tstamps>
+    </comp>
+    <comp ref="L64">
+      <value>8_coil_solenoid</value>
+      <footprint>TacTile:8_coil_solenoid_SMD</footprint>
+      <libsource lib="TacTile" part="8_coil_solenoid" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84bb442b-00da-464e-98ac-1c951933cb1d</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>028b57ba-e1e2-4782-aadb-3804b8a14d40</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>735b233f-fa66-4046-b834-9d8e99189a6e</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fd33325-3532-4f77-b4b4-d5ab0458ee1c</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d63ac8c2-af3c-4565-b607-b23b689b7314</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f388ac27-f024-4751-a056-09272916c82c</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad8b12a2-f866-48c4-aba7-d586211bf31a</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1249ed24-50e7-4414-965b-308c00bdae35</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efb64240-26c1-4d6a-adc6-75f34c4a5273</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2514a15e-1088-4c83-9ad6-099b543fd63b</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f3e2c05-c704-4115-bbe5-24b3d97058f3</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5e51011-934c-44d0-97d7-808ff995189c</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9131b323-ea01-423d-b6a6-8c63e2b51e67</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b45b7d29-1c05-497b-acf2-f02aa4aa4b87</tstamps>
+    </comp>
+    <comp ref="U14">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c093d9a-3902-434a-afd3-b552d1c1fc64</tstamps>
+    </comp>
+    <comp ref="U15">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3eddf48e-36a0-4fb6-b13d-d932352da5e2</tstamps>
+    </comp>
+    <comp ref="U16">
+      <value>MCP14A0304xMNY</value>
+      <footprint>Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</datasheet>
+      <libsource lib="Driver_FET" part="MCP14A0304xMNY" description="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TacTile-B.kicad_sch"/>
+      <property name="ki_description" value="Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8"/>
+      <property name="ki_keywords" value="Driver, Dual MOSFET"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9bc0ec6b-7f2c-461b-b0e0-b52e1fc2e903</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_FET" part="MCP14A0304xMNY">
+      <description>Dual 3A-Peak MOSFET Driver, non-inverting outputs, DFN-8</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</docs>
+      <footprints>
+        <fp>WDFN*1EP*3x2mm*P0.5mm*EP1.3x1.4mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP14A0304xMNY</field>
+        <field name="Footprint">Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/MCP14A0303_4_5-Data-Sheet-20006046A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ENA" type="input"/>
+        <pin num="2" name="INA" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="INB" type="input"/>
+        <pin num="5" name="OUTB" type="output"/>
+        <pin num="6" name="V+" type="power_in"/>
+        <pin num="7" name="OUTA" type="output"/>
+        <pin num="8" name="ENB" type="input"/>
+        <pin num="9" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TacTile" part="8_coil_solenoid">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">8_coil_solenoid</field>
+        <field name="Footprint">TacTile:8_coil_solenoid</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="A" type="passive"/>
+        <pin num="4" name="A" type="passive"/>
+        <pin num="5" name="A" type="passive"/>
+        <pin num="6" name="A" type="passive"/>
+        <pin num="7" name="A" type="passive"/>
+        <pin num="8" name="A" type="passive"/>
+        <pin num="9" name="B" type="passive"/>
+        <pin num="10" name="B" type="passive"/>
+        <pin num="11" name="B" type="passive"/>
+        <pin num="12" name="B" type="passive"/>
+        <pin num="13" name="B" type="passive"/>
+        <pin num="14" name="B" type="passive"/>
+        <pin num="15" name="B" type="passive"/>
+        <pin num="16" name="B" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Driver_FET">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Driver_FET.kicad_sym</uri>
+    </library>
+    <library logical="TacTile">
+      <uri>C:/Users/carso/OneDrive - Roanoke City Public Schools/12th Grade/Engineering/TacTile/PCB/TacTile/TacTile.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/GND">
+      <node ref="J17" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U11" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U12" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U13" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U14" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U14" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U15" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U15" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U16" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U16" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U8" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="U9" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U9" pin="9" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="2" name="/INP0">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="3" name="/INP1">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="4" name="/INP2">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="5" name="/INP3">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="6" name="/INP4">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="7" name="/INP5">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="8" name="/INP6">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="9" name="/INP7">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="10" name="/INP8">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="11" name="/INP9">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="12" name="/INP10">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="13" name="/INP11">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="14" name="/INP12">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="15" name="/INP13">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="16" name="/INP14">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U8" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="17" name="/INP15">
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="18" name="/INP16">
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U9" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="19" name="/INP17">
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U9" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="20" name="/INP18">
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="21" name="/INP19">
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U10" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="22" name="/INP20">
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="23" name="/INP21">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U11" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="24" name="/INP22">
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U12" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="25" name="/INP23">
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U12" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="26" name="/INP24">
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U13" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="27" name="/INP25">
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U13" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="28" name="/INP26">
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U14" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="29" name="/INP27">
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U14" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="30" name="/INP28">
+      <node ref="J15" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U15" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="31" name="/INP29">
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U15" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="32" name="/INP30">
+      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U16" pin="2" pinfunction="INA" pintype="input"/>
+    </net>
+    <net code="33" name="/INP31">
+      <node ref="J16" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U16" pin="4" pinfunction="INB" pintype="input"/>
+    </net>
+    <net code="34" name="/VIN">
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U10" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U11" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U12" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U13" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U14" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U15" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U16" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U2" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U3" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U4" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U5" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U6" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U7" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U8" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U9" pin="6" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="35" name="/VIN0">
+      <node ref="L1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L2" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L3" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L4" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L5" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L6" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L7" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L8" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="36" name="/VIN1">
+      <node ref="L1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L2" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L3" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L4" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L5" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L6" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L7" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L8" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="37" name="/VIN2">
+      <node ref="L1" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L2" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L2" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L3" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L3" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L4" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L4" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L5" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L5" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L6" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L6" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L7" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L7" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L8" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L8" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="38" name="/VIN3">
+      <node ref="L1" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L2" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L2" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L3" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L3" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L4" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L4" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L5" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L5" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L6" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L6" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L7" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L7" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L8" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L8" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="39" name="/VIN4">
+      <node ref="L10" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L10" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L11" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L11" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L12" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L12" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L13" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L13" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L14" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L14" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L15" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L15" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L16" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L16" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L9" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L9" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="40" name="/VIN5">
+      <node ref="L10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L10" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L11" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L12" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L13" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L14" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L15" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L16" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L9" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="41" name="/VIN6">
+      <node ref="L10" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L10" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L11" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L11" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L12" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L12" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L13" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L13" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L14" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L14" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L15" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L15" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L16" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L16" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L9" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L9" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="42" name="/VIN7">
+      <node ref="L10" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L10" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L11" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L11" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L12" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L12" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L13" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L13" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L14" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L14" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L15" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L15" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L16" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L16" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L9" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L9" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="43" name="/VIN8">
+      <node ref="L17" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L17" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L18" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L18" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L19" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L19" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L20" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L20" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L21" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L21" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L22" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L22" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L23" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L23" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L24" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L24" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="44" name="/VIN9">
+      <node ref="L17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L17" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L18" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L19" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L20" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L21" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L22" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L23" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L24" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="U5" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="45" name="/VIN10">
+      <node ref="L17" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L17" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L18" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L18" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L19" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L19" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L20" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L20" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L21" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L21" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L22" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L22" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L23" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L23" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L24" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L24" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="U6" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="46" name="/VIN11">
+      <node ref="L17" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L17" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L18" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L18" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L19" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L19" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L20" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L20" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L21" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L21" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L22" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L22" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L23" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L23" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L24" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L24" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="47" name="/VIN12">
+      <node ref="L25" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L25" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L26" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L26" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L27" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L27" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L28" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L28" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L29" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L29" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L30" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L30" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L31" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L31" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L32" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L32" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="48" name="/VIN13">
+      <node ref="L25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L25" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L26" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L27" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L28" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L29" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L30" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L31" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L32" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="49" name="/VIN14">
+      <node ref="L25" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L25" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L26" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L26" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L27" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L27" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L28" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L28" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L29" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L29" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L30" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L30" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L31" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L31" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L32" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L32" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="U8" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="50" name="/VIN15">
+      <node ref="L25" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L25" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L26" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L26" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L27" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L27" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L28" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L28" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L29" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L29" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L30" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L30" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L31" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L31" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L32" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L32" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="U8" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="51" name="/VIN16">
+      <node ref="L33" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L33" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L34" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L34" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L35" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L35" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L36" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L36" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L37" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L37" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L38" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L38" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L39" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L39" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L40" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L40" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="U9" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="52" name="/VIN17">
+      <node ref="L33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L33" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L34" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L35" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L36" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L37" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L38" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L39" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L40" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="U9" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="53" name="/VIN18">
+      <node ref="L33" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L33" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L34" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L34" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L35" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L35" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L36" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L36" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L37" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L37" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L38" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L38" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L39" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L39" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L40" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L40" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="U10" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="54" name="/VIN19">
+      <node ref="L33" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L33" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L34" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L34" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L35" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L35" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L36" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L36" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L37" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L37" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L38" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L38" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L39" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L39" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L40" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L40" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="U10" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="55" name="/VIN20">
+      <node ref="L41" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L41" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L42" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L42" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L43" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L43" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L44" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L44" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L45" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L45" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L46" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L46" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L47" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L47" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L48" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L48" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="U11" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="56" name="/VIN21">
+      <node ref="L41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L41" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L42" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L43" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L44" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L45" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L46" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L47" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L48" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="U11" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="57" name="/VIN22">
+      <node ref="L41" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L41" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L42" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L42" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L43" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L43" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L44" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L44" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L45" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L45" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L46" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L46" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L47" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L47" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L48" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L48" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="U12" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="58" name="/VIN23">
+      <node ref="L41" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L41" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L42" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L42" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L43" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L43" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L44" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L44" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L45" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L45" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L46" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L46" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L47" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L47" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L48" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L48" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="U12" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="59" name="/VIN24">
+      <node ref="L49" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L49" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L50" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L50" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L51" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L51" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L52" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L52" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L53" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L53" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L54" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L54" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L55" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L55" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L56" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L56" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="U13" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="60" name="/VIN25">
+      <node ref="L49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L49" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L50" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L51" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L52" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L53" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L54" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L55" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L56" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="U13" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="61" name="/VIN26">
+      <node ref="L49" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L49" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L50" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L50" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L51" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L51" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L52" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L52" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L53" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L53" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L54" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L54" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L55" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L55" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L56" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L56" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="U14" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="62" name="/VIN27">
+      <node ref="L49" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L49" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L50" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L50" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L51" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L51" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L52" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L52" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L53" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L53" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L54" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L54" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L55" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L55" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L56" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L56" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="U14" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="63" name="/VIN28">
+      <node ref="L57" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L57" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L58" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L58" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L59" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L59" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L60" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L60" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L61" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L61" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L62" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L62" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L63" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L63" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="L64" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L64" pin="5" pinfunction="A" pintype="passive"/>
+      <node ref="U15" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="64" name="/VIN29">
+      <node ref="L57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L57" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L58" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L59" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L60" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L61" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L62" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L63" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="L64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L64" pin="6" pinfunction="A" pintype="passive"/>
+      <node ref="U15" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="65" name="/VIN30">
+      <node ref="L57" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L57" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L58" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L58" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L59" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L59" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L60" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L60" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L61" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L61" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L62" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L62" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L63" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L63" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="L64" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="L64" pin="7" pinfunction="A" pintype="passive"/>
+      <node ref="U16" pin="7" pinfunction="OUTA" pintype="output"/>
+    </net>
+    <net code="66" name="/VIN31">
+      <node ref="L57" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L57" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L58" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L58" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L59" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L59" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L60" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L60" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L61" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L61" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L62" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L62" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L63" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L63" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="L64" pin="4" pinfunction="A" pintype="passive"/>
+      <node ref="L64" pin="8" pinfunction="A" pintype="passive"/>
+      <node ref="U16" pin="5" pinfunction="OUTB" pintype="output"/>
+    </net>
+    <net code="67" name="Net-(#FLG01-pwr)">
+      <node ref="L1" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(#FLG02-pwr)">
+      <node ref="L2" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(#FLG03-pwr)">
+      <node ref="L3" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(#FLG04-pwr)">
+      <node ref="L4" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(#FLG05-pwr)">
+      <node ref="L5" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(#FLG06-pwr)">
+      <node ref="L6" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(#FLG07-pwr)">
+      <node ref="L7" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(#FLG08-pwr)">
+      <node ref="L8" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(#FLG09-pwr)">
+      <node ref="L1" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(#FLG010-pwr)">
+      <node ref="L2" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(#FLG011-pwr)">
+      <node ref="L3" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(#FLG012-pwr)">
+      <node ref="L4" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(#FLG013-pwr)">
+      <node ref="L5" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(#FLG014-pwr)">
+      <node ref="L6" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(#FLG015-pwr)">
+      <node ref="L7" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(#FLG016-pwr)">
+      <node ref="L8" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(#FLG017-pwr)">
+      <node ref="L1" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(#FLG018-pwr)">
+      <node ref="L2" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(#FLG019-pwr)">
+      <node ref="L3" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(#FLG020-pwr)">
+      <node ref="L4" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(#FLG021-pwr)">
+      <node ref="L5" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(#FLG022-pwr)">
+      <node ref="L6" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(#FLG023-pwr)">
+      <node ref="L7" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(#FLG024-pwr)">
+      <node ref="L8" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(#FLG025-pwr)">
+      <node ref="L1" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(#FLG026-pwr)">
+      <node ref="L2" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(#FLG027-pwr)">
+      <node ref="L3" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(#FLG028-pwr)">
+      <node ref="L4" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(#FLG029-pwr)">
+      <node ref="L5" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(#FLG030-pwr)">
+      <node ref="L6" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(#FLG031-pwr)">
+      <node ref="L7" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(#FLG032-pwr)">
+      <node ref="L8" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(#FLG033-pwr)">
+      <node ref="L1" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(#FLG034-pwr)">
+      <node ref="L2" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(#FLG035-pwr)">
+      <node ref="L3" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(#FLG036-pwr)">
+      <node ref="L4" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(#FLG037-pwr)">
+      <node ref="L5" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(#FLG038-pwr)">
+      <node ref="L6" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(#FLG039-pwr)">
+      <node ref="L7" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(#FLG040-pwr)">
+      <node ref="L8" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(#FLG041-pwr)">
+      <node ref="L1" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(#FLG042-pwr)">
+      <node ref="L2" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(#FLG043-pwr)">
+      <node ref="L3" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(#FLG044-pwr)">
+      <node ref="L4" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(#FLG045-pwr)">
+      <node ref="L5" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(#FLG046-pwr)">
+      <node ref="L6" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(#FLG047-pwr)">
+      <node ref="L7" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(#FLG048-pwr)">
+      <node ref="L8" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="115" name="Net-(#FLG049-pwr)">
+      <node ref="L1" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="116" name="Net-(#FLG050-pwr)">
+      <node ref="L2" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="117" name="Net-(#FLG051-pwr)">
+      <node ref="L3" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="118" name="Net-(#FLG052-pwr)">
+      <node ref="L4" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="119" name="Net-(#FLG053-pwr)">
+      <node ref="L5" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="120" name="Net-(#FLG054-pwr)">
+      <node ref="L6" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="121" name="Net-(#FLG055-pwr)">
+      <node ref="L7" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="122" name="Net-(#FLG056-pwr)">
+      <node ref="L8" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="123" name="Net-(#FLG057-pwr)">
+      <node ref="L1" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="124" name="Net-(#FLG058-pwr)">
+      <node ref="L2" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="125" name="Net-(#FLG059-pwr)">
+      <node ref="L3" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="126" name="Net-(#FLG060-pwr)">
+      <node ref="L4" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="127" name="Net-(#FLG061-pwr)">
+      <node ref="L5" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="128" name="Net-(#FLG062-pwr)">
+      <node ref="L6" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="129" name="Net-(#FLG063-pwr)">
+      <node ref="L7" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="130" name="Net-(#FLG064-pwr)">
+      <node ref="L8" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="131" name="Net-(#FLG065-pwr)">
+      <node ref="L9" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="132" name="Net-(#FLG066-pwr)">
+      <node ref="L10" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="133" name="Net-(#FLG067-pwr)">
+      <node ref="L11" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="134" name="Net-(#FLG068-pwr)">
+      <node ref="L12" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="135" name="Net-(#FLG069-pwr)">
+      <node ref="L13" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="136" name="Net-(#FLG070-pwr)">
+      <node ref="L14" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="137" name="Net-(#FLG071-pwr)">
+      <node ref="L15" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="138" name="Net-(#FLG072-pwr)">
+      <node ref="L16" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="139" name="Net-(#FLG073-pwr)">
+      <node ref="L9" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="140" name="Net-(#FLG074-pwr)">
+      <node ref="L10" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="141" name="Net-(#FLG075-pwr)">
+      <node ref="L11" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="142" name="Net-(#FLG076-pwr)">
+      <node ref="L12" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="143" name="Net-(#FLG077-pwr)">
+      <node ref="L13" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="144" name="Net-(#FLG078-pwr)">
+      <node ref="L14" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="145" name="Net-(#FLG079-pwr)">
+      <node ref="L15" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="146" name="Net-(#FLG080-pwr)">
+      <node ref="L16" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="147" name="Net-(#FLG081-pwr)">
+      <node ref="L9" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="148" name="Net-(#FLG082-pwr)">
+      <node ref="L10" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="149" name="Net-(#FLG083-pwr)">
+      <node ref="L11" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="150" name="Net-(#FLG084-pwr)">
+      <node ref="L12" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="151" name="Net-(#FLG085-pwr)">
+      <node ref="L13" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="152" name="Net-(#FLG086-pwr)">
+      <node ref="L14" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="153" name="Net-(#FLG087-pwr)">
+      <node ref="L15" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="154" name="Net-(#FLG088-pwr)">
+      <node ref="L16" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="155" name="Net-(#FLG089-pwr)">
+      <node ref="L9" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="156" name="Net-(#FLG090-pwr)">
+      <node ref="L10" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="157" name="Net-(#FLG091-pwr)">
+      <node ref="L11" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="158" name="Net-(#FLG092-pwr)">
+      <node ref="L12" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="159" name="Net-(#FLG093-pwr)">
+      <node ref="L13" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="160" name="Net-(#FLG094-pwr)">
+      <node ref="L14" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="161" name="Net-(#FLG095-pwr)">
+      <node ref="L15" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="162" name="Net-(#FLG096-pwr)">
+      <node ref="L16" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="163" name="Net-(#FLG097-pwr)">
+      <node ref="L9" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="164" name="Net-(#FLG098-pwr)">
+      <node ref="L10" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="165" name="Net-(#FLG099-pwr)">
+      <node ref="L11" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="166" name="Net-(#FLG0100-pwr)">
+      <node ref="L12" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="167" name="Net-(#FLG0101-pwr)">
+      <node ref="L13" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="168" name="Net-(#FLG0102-pwr)">
+      <node ref="L14" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="169" name="Net-(#FLG0103-pwr)">
+      <node ref="L15" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="170" name="Net-(#FLG0104-pwr)">
+      <node ref="L16" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="171" name="Net-(#FLG0105-pwr)">
+      <node ref="L9" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="172" name="Net-(#FLG0106-pwr)">
+      <node ref="L10" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="173" name="Net-(#FLG0107-pwr)">
+      <node ref="L11" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="174" name="Net-(#FLG0108-pwr)">
+      <node ref="L12" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="175" name="Net-(#FLG0109-pwr)">
+      <node ref="L13" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="176" name="Net-(#FLG0110-pwr)">
+      <node ref="L14" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="177" name="Net-(#FLG0111-pwr)">
+      <node ref="L15" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="178" name="Net-(#FLG0112-pwr)">
+      <node ref="L16" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="179" name="Net-(#FLG0113-pwr)">
+      <node ref="L9" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="180" name="Net-(#FLG0114-pwr)">
+      <node ref="L10" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="181" name="Net-(#FLG0115-pwr)">
+      <node ref="L11" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="182" name="Net-(#FLG0116-pwr)">
+      <node ref="L12" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="183" name="Net-(#FLG0117-pwr)">
+      <node ref="L13" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="184" name="Net-(#FLG0118-pwr)">
+      <node ref="L14" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="185" name="Net-(#FLG0119-pwr)">
+      <node ref="L15" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="186" name="Net-(#FLG0120-pwr)">
+      <node ref="L16" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="187" name="Net-(#FLG0121-pwr)">
+      <node ref="L9" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="188" name="Net-(#FLG0122-pwr)">
+      <node ref="L10" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="189" name="Net-(#FLG0123-pwr)">
+      <node ref="L11" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="190" name="Net-(#FLG0124-pwr)">
+      <node ref="L12" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="191" name="Net-(#FLG0125-pwr)">
+      <node ref="L13" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="192" name="Net-(#FLG0126-pwr)">
+      <node ref="L14" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="193" name="Net-(#FLG0127-pwr)">
+      <node ref="L15" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="194" name="Net-(#FLG0128-pwr)">
+      <node ref="L16" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="195" name="Net-(#FLG0129-pwr)">
+      <node ref="L17" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="196" name="Net-(#FLG0130-pwr)">
+      <node ref="L18" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="197" name="Net-(#FLG0131-pwr)">
+      <node ref="L19" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="198" name="Net-(#FLG0132-pwr)">
+      <node ref="L20" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="199" name="Net-(#FLG0133-pwr)">
+      <node ref="L21" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="200" name="Net-(#FLG0134-pwr)">
+      <node ref="L22" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="201" name="Net-(#FLG0135-pwr)">
+      <node ref="L23" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="202" name="Net-(#FLG0136-pwr)">
+      <node ref="L24" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="203" name="Net-(#FLG0137-pwr)">
+      <node ref="L17" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="204" name="Net-(#FLG0138-pwr)">
+      <node ref="L18" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="205" name="Net-(#FLG0139-pwr)">
+      <node ref="L19" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="206" name="Net-(#FLG0140-pwr)">
+      <node ref="L20" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="207" name="Net-(#FLG0141-pwr)">
+      <node ref="L21" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="208" name="Net-(#FLG0142-pwr)">
+      <node ref="L22" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="209" name="Net-(#FLG0143-pwr)">
+      <node ref="L23" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="210" name="Net-(#FLG0144-pwr)">
+      <node ref="L24" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="211" name="Net-(#FLG0145-pwr)">
+      <node ref="L17" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="212" name="Net-(#FLG0146-pwr)">
+      <node ref="L18" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="213" name="Net-(#FLG0147-pwr)">
+      <node ref="L19" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="214" name="Net-(#FLG0148-pwr)">
+      <node ref="L20" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="215" name="Net-(#FLG0149-pwr)">
+      <node ref="L21" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="216" name="Net-(#FLG0150-pwr)">
+      <node ref="L22" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="217" name="Net-(#FLG0151-pwr)">
+      <node ref="L23" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="218" name="Net-(#FLG0152-pwr)">
+      <node ref="L24" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="219" name="Net-(#FLG0153-pwr)">
+      <node ref="L17" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="220" name="Net-(#FLG0154-pwr)">
+      <node ref="L18" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="221" name="Net-(#FLG0155-pwr)">
+      <node ref="L19" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="222" name="Net-(#FLG0156-pwr)">
+      <node ref="L20" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="223" name="Net-(#FLG0157-pwr)">
+      <node ref="L21" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="224" name="Net-(#FLG0158-pwr)">
+      <node ref="L22" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="225" name="Net-(#FLG0159-pwr)">
+      <node ref="L23" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="226" name="Net-(#FLG0160-pwr)">
+      <node ref="L24" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="227" name="Net-(#FLG0161-pwr)">
+      <node ref="L17" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="228" name="Net-(#FLG0162-pwr)">
+      <node ref="L18" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="229" name="Net-(#FLG0163-pwr)">
+      <node ref="L19" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="230" name="Net-(#FLG0164-pwr)">
+      <node ref="L20" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="231" name="Net-(#FLG0165-pwr)">
+      <node ref="L21" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="232" name="Net-(#FLG0166-pwr)">
+      <node ref="L22" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="233" name="Net-(#FLG0167-pwr)">
+      <node ref="L23" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="234" name="Net-(#FLG0168-pwr)">
+      <node ref="L24" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="235" name="Net-(#FLG0169-pwr)">
+      <node ref="L17" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="236" name="Net-(#FLG0170-pwr)">
+      <node ref="L18" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="237" name="Net-(#FLG0171-pwr)">
+      <node ref="L19" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="238" name="Net-(#FLG0172-pwr)">
+      <node ref="L20" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="239" name="Net-(#FLG0173-pwr)">
+      <node ref="L21" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="240" name="Net-(#FLG0174-pwr)">
+      <node ref="L22" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="241" name="Net-(#FLG0175-pwr)">
+      <node ref="L23" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="242" name="Net-(#FLG0176-pwr)">
+      <node ref="L24" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="243" name="Net-(#FLG0177-pwr)">
+      <node ref="L17" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="244" name="Net-(#FLG0178-pwr)">
+      <node ref="L18" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="245" name="Net-(#FLG0179-pwr)">
+      <node ref="L19" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="246" name="Net-(#FLG0180-pwr)">
+      <node ref="L20" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="247" name="Net-(#FLG0181-pwr)">
+      <node ref="L21" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="248" name="Net-(#FLG0182-pwr)">
+      <node ref="L22" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="249" name="Net-(#FLG0183-pwr)">
+      <node ref="L23" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="250" name="Net-(#FLG0184-pwr)">
+      <node ref="L24" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="251" name="Net-(#FLG0185-pwr)">
+      <node ref="L17" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="252" name="Net-(#FLG0186-pwr)">
+      <node ref="L18" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="253" name="Net-(#FLG0187-pwr)">
+      <node ref="L19" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="254" name="Net-(#FLG0188-pwr)">
+      <node ref="L20" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="255" name="Net-(#FLG0189-pwr)">
+      <node ref="L21" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="256" name="Net-(#FLG0190-pwr)">
+      <node ref="L22" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="257" name="Net-(#FLG0191-pwr)">
+      <node ref="L23" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="258" name="Net-(#FLG0192-pwr)">
+      <node ref="L24" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="259" name="Net-(#FLG0193-pwr)">
+      <node ref="L25" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="260" name="Net-(#FLG0194-pwr)">
+      <node ref="L26" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="261" name="Net-(#FLG0195-pwr)">
+      <node ref="L27" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="262" name="Net-(#FLG0196-pwr)">
+      <node ref="L28" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="263" name="Net-(#FLG0197-pwr)">
+      <node ref="L29" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="264" name="Net-(#FLG0198-pwr)">
+      <node ref="L30" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="265" name="Net-(#FLG0199-pwr)">
+      <node ref="L31" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="266" name="Net-(#FLG0200-pwr)">
+      <node ref="L32" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="267" name="Net-(#FLG0201-pwr)">
+      <node ref="L25" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="268" name="Net-(#FLG0202-pwr)">
+      <node ref="L26" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="269" name="Net-(#FLG0203-pwr)">
+      <node ref="L27" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="270" name="Net-(#FLG0204-pwr)">
+      <node ref="L28" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="271" name="Net-(#FLG0205-pwr)">
+      <node ref="L29" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="272" name="Net-(#FLG0206-pwr)">
+      <node ref="L30" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="273" name="Net-(#FLG0207-pwr)">
+      <node ref="L31" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="274" name="Net-(#FLG0208-pwr)">
+      <node ref="L32" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="275" name="Net-(#FLG0209-pwr)">
+      <node ref="L25" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="276" name="Net-(#FLG0210-pwr)">
+      <node ref="L26" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="277" name="Net-(#FLG0211-pwr)">
+      <node ref="L27" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="278" name="Net-(#FLG0212-pwr)">
+      <node ref="L28" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="279" name="Net-(#FLG0213-pwr)">
+      <node ref="L29" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="280" name="Net-(#FLG0214-pwr)">
+      <node ref="L30" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="281" name="Net-(#FLG0215-pwr)">
+      <node ref="L31" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="282" name="Net-(#FLG0216-pwr)">
+      <node ref="L32" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="283" name="Net-(#FLG0217-pwr)">
+      <node ref="L25" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="284" name="Net-(#FLG0218-pwr)">
+      <node ref="L26" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="285" name="Net-(#FLG0219-pwr)">
+      <node ref="L27" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="286" name="Net-(#FLG0220-pwr)">
+      <node ref="L28" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="287" name="Net-(#FLG0221-pwr)">
+      <node ref="L29" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="288" name="Net-(#FLG0222-pwr)">
+      <node ref="L30" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="289" name="Net-(#FLG0223-pwr)">
+      <node ref="L31" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="290" name="Net-(#FLG0224-pwr)">
+      <node ref="L32" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="291" name="Net-(#FLG0225-pwr)">
+      <node ref="L25" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="292" name="Net-(#FLG0226-pwr)">
+      <node ref="L26" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="293" name="Net-(#FLG0227-pwr)">
+      <node ref="L27" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="294" name="Net-(#FLG0228-pwr)">
+      <node ref="L28" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="295" name="Net-(#FLG0229-pwr)">
+      <node ref="L29" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="296" name="Net-(#FLG0230-pwr)">
+      <node ref="L30" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="297" name="Net-(#FLG0231-pwr)">
+      <node ref="L31" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="298" name="Net-(#FLG0232-pwr)">
+      <node ref="L32" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="299" name="Net-(#FLG0233-pwr)">
+      <node ref="L25" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="300" name="Net-(#FLG0234-pwr)">
+      <node ref="L26" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="301" name="Net-(#FLG0235-pwr)">
+      <node ref="L27" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="302" name="Net-(#FLG0236-pwr)">
+      <node ref="L28" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="303" name="Net-(#FLG0237-pwr)">
+      <node ref="L29" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="304" name="Net-(#FLG0238-pwr)">
+      <node ref="L30" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="305" name="Net-(#FLG0239-pwr)">
+      <node ref="L31" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="306" name="Net-(#FLG0240-pwr)">
+      <node ref="L32" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="307" name="Net-(#FLG0241-pwr)">
+      <node ref="L25" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="308" name="Net-(#FLG0242-pwr)">
+      <node ref="L26" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="309" name="Net-(#FLG0243-pwr)">
+      <node ref="L27" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="310" name="Net-(#FLG0244-pwr)">
+      <node ref="L28" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="311" name="Net-(#FLG0245-pwr)">
+      <node ref="L29" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="312" name="Net-(#FLG0246-pwr)">
+      <node ref="L30" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="313" name="Net-(#FLG0247-pwr)">
+      <node ref="L31" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="314" name="Net-(#FLG0248-pwr)">
+      <node ref="L32" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="315" name="Net-(#FLG0249-pwr)">
+      <node ref="L25" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="316" name="Net-(#FLG0250-pwr)">
+      <node ref="L26" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="317" name="Net-(#FLG0251-pwr)">
+      <node ref="L27" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="318" name="Net-(#FLG0252-pwr)">
+      <node ref="L28" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="319" name="Net-(#FLG0253-pwr)">
+      <node ref="L29" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="320" name="Net-(#FLG0254-pwr)">
+      <node ref="L30" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="321" name="Net-(#FLG0255-pwr)">
+      <node ref="L31" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="322" name="Net-(#FLG0256-pwr)">
+      <node ref="L32" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="323" name="Net-(#FLG0257-pwr)">
+      <node ref="L33" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="324" name="Net-(#FLG0258-pwr)">
+      <node ref="L34" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="325" name="Net-(#FLG0259-pwr)">
+      <node ref="L35" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="326" name="Net-(#FLG0260-pwr)">
+      <node ref="L36" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="327" name="Net-(#FLG0261-pwr)">
+      <node ref="L37" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="328" name="Net-(#FLG0262-pwr)">
+      <node ref="L38" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="329" name="Net-(#FLG0263-pwr)">
+      <node ref="L39" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="330" name="Net-(#FLG0264-pwr)">
+      <node ref="L40" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="331" name="Net-(#FLG0265-pwr)">
+      <node ref="L33" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="332" name="Net-(#FLG0266-pwr)">
+      <node ref="L34" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="333" name="Net-(#FLG0267-pwr)">
+      <node ref="L35" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="334" name="Net-(#FLG0268-pwr)">
+      <node ref="L36" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="335" name="Net-(#FLG0269-pwr)">
+      <node ref="L37" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="336" name="Net-(#FLG0270-pwr)">
+      <node ref="L38" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="337" name="Net-(#FLG0271-pwr)">
+      <node ref="L39" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="338" name="Net-(#FLG0272-pwr)">
+      <node ref="L40" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="339" name="Net-(#FLG0273-pwr)">
+      <node ref="L33" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="340" name="Net-(#FLG0274-pwr)">
+      <node ref="L34" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="341" name="Net-(#FLG0275-pwr)">
+      <node ref="L35" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="342" name="Net-(#FLG0276-pwr)">
+      <node ref="L36" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="343" name="Net-(#FLG0277-pwr)">
+      <node ref="L37" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="344" name="Net-(#FLG0278-pwr)">
+      <node ref="L38" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="345" name="Net-(#FLG0279-pwr)">
+      <node ref="L39" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="346" name="Net-(#FLG0280-pwr)">
+      <node ref="L40" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="347" name="Net-(#FLG0281-pwr)">
+      <node ref="L33" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="348" name="Net-(#FLG0282-pwr)">
+      <node ref="L34" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="349" name="Net-(#FLG0283-pwr)">
+      <node ref="L35" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="350" name="Net-(#FLG0284-pwr)">
+      <node ref="L36" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="351" name="Net-(#FLG0285-pwr)">
+      <node ref="L37" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="352" name="Net-(#FLG0286-pwr)">
+      <node ref="L38" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="353" name="Net-(#FLG0287-pwr)">
+      <node ref="L39" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="354" name="Net-(#FLG0288-pwr)">
+      <node ref="L40" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="355" name="Net-(#FLG0289-pwr)">
+      <node ref="L33" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="356" name="Net-(#FLG0290-pwr)">
+      <node ref="L34" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="357" name="Net-(#FLG0291-pwr)">
+      <node ref="L35" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="358" name="Net-(#FLG0292-pwr)">
+      <node ref="L36" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="359" name="Net-(#FLG0293-pwr)">
+      <node ref="L37" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="360" name="Net-(#FLG0294-pwr)">
+      <node ref="L38" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="361" name="Net-(#FLG0295-pwr)">
+      <node ref="L39" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="362" name="Net-(#FLG0296-pwr)">
+      <node ref="L40" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="363" name="Net-(#FLG0297-pwr)">
+      <node ref="L33" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="364" name="Net-(#FLG0298-pwr)">
+      <node ref="L34" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="365" name="Net-(#FLG0299-pwr)">
+      <node ref="L35" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="366" name="Net-(#FLG0300-pwr)">
+      <node ref="L36" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="367" name="Net-(#FLG0301-pwr)">
+      <node ref="L37" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="368" name="Net-(#FLG0302-pwr)">
+      <node ref="L38" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="369" name="Net-(#FLG0303-pwr)">
+      <node ref="L39" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="370" name="Net-(#FLG0304-pwr)">
+      <node ref="L40" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="371" name="Net-(#FLG0305-pwr)">
+      <node ref="L33" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="372" name="Net-(#FLG0306-pwr)">
+      <node ref="L34" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="373" name="Net-(#FLG0307-pwr)">
+      <node ref="L35" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="374" name="Net-(#FLG0308-pwr)">
+      <node ref="L36" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="375" name="Net-(#FLG0309-pwr)">
+      <node ref="L37" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="376" name="Net-(#FLG0310-pwr)">
+      <node ref="L38" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="377" name="Net-(#FLG0311-pwr)">
+      <node ref="L39" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="378" name="Net-(#FLG0312-pwr)">
+      <node ref="L40" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="379" name="Net-(#FLG0313-pwr)">
+      <node ref="L33" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="380" name="Net-(#FLG0314-pwr)">
+      <node ref="L34" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="381" name="Net-(#FLG0315-pwr)">
+      <node ref="L35" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="382" name="Net-(#FLG0316-pwr)">
+      <node ref="L36" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="383" name="Net-(#FLG0317-pwr)">
+      <node ref="L37" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="384" name="Net-(#FLG0318-pwr)">
+      <node ref="L38" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="385" name="Net-(#FLG0319-pwr)">
+      <node ref="L39" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="386" name="Net-(#FLG0320-pwr)">
+      <node ref="L40" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="387" name="Net-(#FLG0321-pwr)">
+      <node ref="L41" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="388" name="Net-(#FLG0322-pwr)">
+      <node ref="L42" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="389" name="Net-(#FLG0323-pwr)">
+      <node ref="L43" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="390" name="Net-(#FLG0324-pwr)">
+      <node ref="L44" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="391" name="Net-(#FLG0325-pwr)">
+      <node ref="L45" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="392" name="Net-(#FLG0326-pwr)">
+      <node ref="L46" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="393" name="Net-(#FLG0327-pwr)">
+      <node ref="L47" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="394" name="Net-(#FLG0328-pwr)">
+      <node ref="L48" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="395" name="Net-(#FLG0329-pwr)">
+      <node ref="L41" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="396" name="Net-(#FLG0330-pwr)">
+      <node ref="L42" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="397" name="Net-(#FLG0331-pwr)">
+      <node ref="L43" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="398" name="Net-(#FLG0332-pwr)">
+      <node ref="L44" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="399" name="Net-(#FLG0333-pwr)">
+      <node ref="L45" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="400" name="Net-(#FLG0334-pwr)">
+      <node ref="L46" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="401" name="Net-(#FLG0335-pwr)">
+      <node ref="L47" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="402" name="Net-(#FLG0336-pwr)">
+      <node ref="L48" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="403" name="Net-(#FLG0337-pwr)">
+      <node ref="L41" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="404" name="Net-(#FLG0338-pwr)">
+      <node ref="L42" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="405" name="Net-(#FLG0339-pwr)">
+      <node ref="L43" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="406" name="Net-(#FLG0340-pwr)">
+      <node ref="L44" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="407" name="Net-(#FLG0341-pwr)">
+      <node ref="L45" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="408" name="Net-(#FLG0342-pwr)">
+      <node ref="L46" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="409" name="Net-(#FLG0343-pwr)">
+      <node ref="L47" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="410" name="Net-(#FLG0344-pwr)">
+      <node ref="L48" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="411" name="Net-(#FLG0345-pwr)">
+      <node ref="L41" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="412" name="Net-(#FLG0346-pwr)">
+      <node ref="L42" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="413" name="Net-(#FLG0347-pwr)">
+      <node ref="L43" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="414" name="Net-(#FLG0348-pwr)">
+      <node ref="L44" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="415" name="Net-(#FLG0349-pwr)">
+      <node ref="L45" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="416" name="Net-(#FLG0350-pwr)">
+      <node ref="L46" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="417" name="Net-(#FLG0351-pwr)">
+      <node ref="L47" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="418" name="Net-(#FLG0352-pwr)">
+      <node ref="L48" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="419" name="Net-(#FLG0353-pwr)">
+      <node ref="L41" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="420" name="Net-(#FLG0354-pwr)">
+      <node ref="L42" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="421" name="Net-(#FLG0355-pwr)">
+      <node ref="L43" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="422" name="Net-(#FLG0356-pwr)">
+      <node ref="L44" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="423" name="Net-(#FLG0357-pwr)">
+      <node ref="L45" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="424" name="Net-(#FLG0358-pwr)">
+      <node ref="L46" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="425" name="Net-(#FLG0359-pwr)">
+      <node ref="L47" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="426" name="Net-(#FLG0360-pwr)">
+      <node ref="L48" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="427" name="Net-(#FLG0361-pwr)">
+      <node ref="L41" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="428" name="Net-(#FLG0362-pwr)">
+      <node ref="L42" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="429" name="Net-(#FLG0363-pwr)">
+      <node ref="L43" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="430" name="Net-(#FLG0364-pwr)">
+      <node ref="L44" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="431" name="Net-(#FLG0365-pwr)">
+      <node ref="L45" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="432" name="Net-(#FLG0366-pwr)">
+      <node ref="L46" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="433" name="Net-(#FLG0367-pwr)">
+      <node ref="L47" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="434" name="Net-(#FLG0368-pwr)">
+      <node ref="L48" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="435" name="Net-(#FLG0369-pwr)">
+      <node ref="L41" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="436" name="Net-(#FLG0370-pwr)">
+      <node ref="L42" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="437" name="Net-(#FLG0371-pwr)">
+      <node ref="L43" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="438" name="Net-(#FLG0372-pwr)">
+      <node ref="L44" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="439" name="Net-(#FLG0373-pwr)">
+      <node ref="L45" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="440" name="Net-(#FLG0374-pwr)">
+      <node ref="L46" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="441" name="Net-(#FLG0375-pwr)">
+      <node ref="L47" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="442" name="Net-(#FLG0376-pwr)">
+      <node ref="L48" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="443" name="Net-(#FLG0377-pwr)">
+      <node ref="L41" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="444" name="Net-(#FLG0378-pwr)">
+      <node ref="L42" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="445" name="Net-(#FLG0379-pwr)">
+      <node ref="L43" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="446" name="Net-(#FLG0380-pwr)">
+      <node ref="L44" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="447" name="Net-(#FLG0381-pwr)">
+      <node ref="L45" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="448" name="Net-(#FLG0382-pwr)">
+      <node ref="L46" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="449" name="Net-(#FLG0383-pwr)">
+      <node ref="L47" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="450" name="Net-(#FLG0384-pwr)">
+      <node ref="L48" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="451" name="Net-(#FLG0385-pwr)">
+      <node ref="L49" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="452" name="Net-(#FLG0386-pwr)">
+      <node ref="L50" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="453" name="Net-(#FLG0387-pwr)">
+      <node ref="L51" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="454" name="Net-(#FLG0388-pwr)">
+      <node ref="L52" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="455" name="Net-(#FLG0389-pwr)">
+      <node ref="L53" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="456" name="Net-(#FLG0390-pwr)">
+      <node ref="L54" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="457" name="Net-(#FLG0391-pwr)">
+      <node ref="L55" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="458" name="Net-(#FLG0392-pwr)">
+      <node ref="L56" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="459" name="Net-(#FLG0393-pwr)">
+      <node ref="L49" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="460" name="Net-(#FLG0394-pwr)">
+      <node ref="L50" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="461" name="Net-(#FLG0395-pwr)">
+      <node ref="L51" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="462" name="Net-(#FLG0396-pwr)">
+      <node ref="L52" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="463" name="Net-(#FLG0397-pwr)">
+      <node ref="L53" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="464" name="Net-(#FLG0398-pwr)">
+      <node ref="L54" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="465" name="Net-(#FLG0399-pwr)">
+      <node ref="L55" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="466" name="Net-(#FLG0400-pwr)">
+      <node ref="L56" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="467" name="Net-(#FLG0401-pwr)">
+      <node ref="L49" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="468" name="Net-(#FLG0402-pwr)">
+      <node ref="L50" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="469" name="Net-(#FLG0403-pwr)">
+      <node ref="L51" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="470" name="Net-(#FLG0404-pwr)">
+      <node ref="L52" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="471" name="Net-(#FLG0405-pwr)">
+      <node ref="L53" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="472" name="Net-(#FLG0406-pwr)">
+      <node ref="L54" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="473" name="Net-(#FLG0407-pwr)">
+      <node ref="L55" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="474" name="Net-(#FLG0408-pwr)">
+      <node ref="L56" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="475" name="Net-(#FLG0409-pwr)">
+      <node ref="L49" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="476" name="Net-(#FLG0410-pwr)">
+      <node ref="L50" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="477" name="Net-(#FLG0411-pwr)">
+      <node ref="L51" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="478" name="Net-(#FLG0412-pwr)">
+      <node ref="L52" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="479" name="Net-(#FLG0413-pwr)">
+      <node ref="L53" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="480" name="Net-(#FLG0414-pwr)">
+      <node ref="L54" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="481" name="Net-(#FLG0415-pwr)">
+      <node ref="L55" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="482" name="Net-(#FLG0416-pwr)">
+      <node ref="L56" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="483" name="Net-(#FLG0417-pwr)">
+      <node ref="L49" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="484" name="Net-(#FLG0418-pwr)">
+      <node ref="L50" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="485" name="Net-(#FLG0419-pwr)">
+      <node ref="L51" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="486" name="Net-(#FLG0420-pwr)">
+      <node ref="L52" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="487" name="Net-(#FLG0421-pwr)">
+      <node ref="L53" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="488" name="Net-(#FLG0422-pwr)">
+      <node ref="L54" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="489" name="Net-(#FLG0423-pwr)">
+      <node ref="L55" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="490" name="Net-(#FLG0424-pwr)">
+      <node ref="L56" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="491" name="Net-(#FLG0425-pwr)">
+      <node ref="L49" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="492" name="Net-(#FLG0426-pwr)">
+      <node ref="L50" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="493" name="Net-(#FLG0427-pwr)">
+      <node ref="L51" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="494" name="Net-(#FLG0428-pwr)">
+      <node ref="L52" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="495" name="Net-(#FLG0429-pwr)">
+      <node ref="L53" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="496" name="Net-(#FLG0430-pwr)">
+      <node ref="L54" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="497" name="Net-(#FLG0431-pwr)">
+      <node ref="L55" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="498" name="Net-(#FLG0432-pwr)">
+      <node ref="L56" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="499" name="Net-(#FLG0433-pwr)">
+      <node ref="L49" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="500" name="Net-(#FLG0434-pwr)">
+      <node ref="L50" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="501" name="Net-(#FLG0435-pwr)">
+      <node ref="L51" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="502" name="Net-(#FLG0436-pwr)">
+      <node ref="L52" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="503" name="Net-(#FLG0437-pwr)">
+      <node ref="L53" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="504" name="Net-(#FLG0438-pwr)">
+      <node ref="L54" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="505" name="Net-(#FLG0439-pwr)">
+      <node ref="L55" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="506" name="Net-(#FLG0440-pwr)">
+      <node ref="L56" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="507" name="Net-(#FLG0441-pwr)">
+      <node ref="L49" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="508" name="Net-(#FLG0442-pwr)">
+      <node ref="L50" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="509" name="Net-(#FLG0443-pwr)">
+      <node ref="L51" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="510" name="Net-(#FLG0444-pwr)">
+      <node ref="L52" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="511" name="Net-(#FLG0445-pwr)">
+      <node ref="L53" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="512" name="Net-(#FLG0446-pwr)">
+      <node ref="L54" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="513" name="Net-(#FLG0447-pwr)">
+      <node ref="L55" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="514" name="Net-(#FLG0448-pwr)">
+      <node ref="L56" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="515" name="Net-(#FLG0449-pwr)">
+      <node ref="L57" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="516" name="Net-(#FLG0450-pwr)">
+      <node ref="L58" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="517" name="Net-(#FLG0451-pwr)">
+      <node ref="L59" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="518" name="Net-(#FLG0452-pwr)">
+      <node ref="L60" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="519" name="Net-(#FLG0453-pwr)">
+      <node ref="L61" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="520" name="Net-(#FLG0454-pwr)">
+      <node ref="L62" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="521" name="Net-(#FLG0455-pwr)">
+      <node ref="L63" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="522" name="Net-(#FLG0456-pwr)">
+      <node ref="L64" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="523" name="Net-(#FLG0457-pwr)">
+      <node ref="L57" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="524" name="Net-(#FLG0458-pwr)">
+      <node ref="L58" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="525" name="Net-(#FLG0459-pwr)">
+      <node ref="L59" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="526" name="Net-(#FLG0460-pwr)">
+      <node ref="L60" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="527" name="Net-(#FLG0461-pwr)">
+      <node ref="L61" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="528" name="Net-(#FLG0462-pwr)">
+      <node ref="L62" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="529" name="Net-(#FLG0463-pwr)">
+      <node ref="L63" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="530" name="Net-(#FLG0464-pwr)">
+      <node ref="L64" pin="10" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="531" name="Net-(#FLG0465-pwr)">
+      <node ref="L57" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="532" name="Net-(#FLG0466-pwr)">
+      <node ref="L58" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="533" name="Net-(#FLG0467-pwr)">
+      <node ref="L59" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="534" name="Net-(#FLG0468-pwr)">
+      <node ref="L60" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="535" name="Net-(#FLG0469-pwr)">
+      <node ref="L61" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="536" name="Net-(#FLG0470-pwr)">
+      <node ref="L62" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="537" name="Net-(#FLG0471-pwr)">
+      <node ref="L63" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="538" name="Net-(#FLG0472-pwr)">
+      <node ref="L64" pin="11" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="539" name="Net-(#FLG0473-pwr)">
+      <node ref="L57" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="540" name="Net-(#FLG0474-pwr)">
+      <node ref="L58" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="541" name="Net-(#FLG0475-pwr)">
+      <node ref="L59" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="542" name="Net-(#FLG0476-pwr)">
+      <node ref="L60" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="543" name="Net-(#FLG0477-pwr)">
+      <node ref="L61" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="544" name="Net-(#FLG0478-pwr)">
+      <node ref="L62" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="545" name="Net-(#FLG0479-pwr)">
+      <node ref="L63" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="546" name="Net-(#FLG0480-pwr)">
+      <node ref="L64" pin="12" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="547" name="Net-(#FLG0481-pwr)">
+      <node ref="L57" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="548" name="Net-(#FLG0482-pwr)">
+      <node ref="L58" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="549" name="Net-(#FLG0483-pwr)">
+      <node ref="L59" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="550" name="Net-(#FLG0484-pwr)">
+      <node ref="L60" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="551" name="Net-(#FLG0485-pwr)">
+      <node ref="L61" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="552" name="Net-(#FLG0486-pwr)">
+      <node ref="L62" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="553" name="Net-(#FLG0487-pwr)">
+      <node ref="L63" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="554" name="Net-(#FLG0488-pwr)">
+      <node ref="L64" pin="13" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="555" name="Net-(#FLG0489-pwr)">
+      <node ref="L57" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="556" name="Net-(#FLG0490-pwr)">
+      <node ref="L58" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="557" name="Net-(#FLG0491-pwr)">
+      <node ref="L59" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="558" name="Net-(#FLG0492-pwr)">
+      <node ref="L60" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="559" name="Net-(#FLG0493-pwr)">
+      <node ref="L61" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="560" name="Net-(#FLG0494-pwr)">
+      <node ref="L62" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="561" name="Net-(#FLG0495-pwr)">
+      <node ref="L63" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="562" name="Net-(#FLG0496-pwr)">
+      <node ref="L64" pin="14" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="563" name="Net-(#FLG0497-pwr)">
+      <node ref="L57" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="564" name="Net-(#FLG0498-pwr)">
+      <node ref="L58" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="565" name="Net-(#FLG0499-pwr)">
+      <node ref="L59" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="566" name="Net-(#FLG0500-pwr)">
+      <node ref="L60" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="567" name="Net-(#FLG0501-pwr)">
+      <node ref="L61" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="568" name="Net-(#FLG0502-pwr)">
+      <node ref="L62" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="569" name="Net-(#FLG0503-pwr)">
+      <node ref="L63" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="570" name="Net-(#FLG0504-pwr)">
+      <node ref="L64" pin="15" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="571" name="Net-(#FLG0505-pwr)">
+      <node ref="L57" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="572" name="Net-(#FLG0506-pwr)">
+      <node ref="L58" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="573" name="Net-(#FLG0507-pwr)">
+      <node ref="L59" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="574" name="Net-(#FLG0508-pwr)">
+      <node ref="L60" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="575" name="Net-(#FLG0509-pwr)">
+      <node ref="L61" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="576" name="Net-(#FLG0510-pwr)">
+      <node ref="L62" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="577" name="Net-(#FLG0511-pwr)">
+      <node ref="L63" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="578" name="Net-(#FLG0512-pwr)">
+      <node ref="L64" pin="16" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="579" name="unconnected-(U1-ENA-Pad1)">
+      <node ref="U1" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="580" name="unconnected-(U1-ENB-Pad8)">
+      <node ref="U1" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="581" name="unconnected-(U2-ENA-Pad1)">
+      <node ref="U2" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="582" name="unconnected-(U2-ENB-Pad8)">
+      <node ref="U2" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="583" name="unconnected-(U3-ENA-Pad1)">
+      <node ref="U3" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="584" name="unconnected-(U3-ENB-Pad8)">
+      <node ref="U3" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="585" name="unconnected-(U4-ENA-Pad1)">
+      <node ref="U4" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="586" name="unconnected-(U4-ENB-Pad8)">
+      <node ref="U4" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="587" name="unconnected-(U5-ENA-Pad1)">
+      <node ref="U5" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="588" name="unconnected-(U5-ENB-Pad8)">
+      <node ref="U5" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="589" name="unconnected-(U6-ENA-Pad1)">
+      <node ref="U6" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="590" name="unconnected-(U6-ENB-Pad8)">
+      <node ref="U6" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="591" name="unconnected-(U7-ENA-Pad1)">
+      <node ref="U7" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="592" name="unconnected-(U7-ENB-Pad8)">
+      <node ref="U7" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="593" name="unconnected-(U8-ENA-Pad1)">
+      <node ref="U8" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="594" name="unconnected-(U8-ENB-Pad8)">
+      <node ref="U8" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="595" name="unconnected-(U9-ENA-Pad1)">
+      <node ref="U9" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="596" name="unconnected-(U9-ENB-Pad8)">
+      <node ref="U9" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="597" name="unconnected-(U10-ENA-Pad1)">
+      <node ref="U10" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="598" name="unconnected-(U10-ENB-Pad8)">
+      <node ref="U10" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="599" name="unconnected-(U11-ENA-Pad1)">
+      <node ref="U11" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="600" name="unconnected-(U11-ENB-Pad8)">
+      <node ref="U11" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="601" name="unconnected-(U12-ENA-Pad1)">
+      <node ref="U12" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="602" name="unconnected-(U12-ENB-Pad8)">
+      <node ref="U12" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="603" name="unconnected-(U13-ENA-Pad1)">
+      <node ref="U13" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="604" name="unconnected-(U13-ENB-Pad8)">
+      <node ref="U13" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="605" name="unconnected-(U14-ENA-Pad1)">
+      <node ref="U14" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="606" name="unconnected-(U14-ENB-Pad8)">
+      <node ref="U14" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="607" name="unconnected-(U15-ENA-Pad1)">
+      <node ref="U15" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="608" name="unconnected-(U15-ENB-Pad8)">
+      <node ref="U15" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+    <net code="609" name="unconnected-(U16-ENA-Pad1)">
+      <node ref="U16" pin="1" pinfunction="ENA" pintype="input"/>
+    </net>
+    <net code="610" name="unconnected-(U16-ENB-Pad8)">
+      <node ref="U16" pin="8" pinfunction="ENB" pintype="input"/>
+    </net>
+  </nets>
+</export>

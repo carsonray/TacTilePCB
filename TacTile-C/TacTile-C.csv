@@ -1,0 +1,7 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","J1, J2, J3, J4, J5, J6, J7, J8, J9, J10, J11, J12, J13, J14, J15, J16, J17","17","Conn_01x02","Connector_PinSocket_1.27mm:PinSocket_1x02_P1.27mm_Vertical",""
+"2","J18","1","Conn_01x04","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
+"3","J19","1","Conn_01x05","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical",""
+"4","J20, J21","2","Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical",""
+"5","JMP1, JMP2, JMP3, JMP4, JMP5, JMP6, JMP7, JMP8, JMP9, JMP10, JMP11, JMP12, JMP13, JMP14, JMP15, JMP16","16","~","TacTile:Jumper_Connect",""
+"6","U1, U2, U3, U4, U5, U6, U7, U8","8","74HC4051","Package_DIP:DIP-16_W7.62mm",""

@@ -1,0 +1,22 @@
+### Footprint positions - created on Wed Oct  4 00:27:04 2023 ###
+### Printed by KiCad version 7.0.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                                   PosX       PosY       Rot  Side
+U1        MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    36.2500   -28.7500   61.0000  bottom
+U2        MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    73.7500   -28.7500  -120.0000  bottom
+U3        MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    36.2500   -36.2000   61.0000  bottom
+U4        MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    73.7500   -36.2500  -120.0000  bottom
+U5        MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    36.2500   -43.7000   61.0000  bottom
+U6        MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    73.7500   -43.7500  -120.0000  bottom
+U7        MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    36.2500   -51.2000   61.0000  bottom
+U8        MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    73.7500   -51.2500  -120.0000  bottom
+U9        MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    36.2500   -58.7000   61.0000  bottom
+U10       MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    73.7500   -58.7500  -120.0000  bottom
+U11       MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    36.2500   -66.2000   61.0000  bottom
+U12       MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    73.7500   -66.2500  -120.0000  bottom
+U13       MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    36.2500   -73.7000   61.0000  bottom
+U14       MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    73.7500   -73.7500  -120.0000  bottom
+U15       MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    36.2500   -81.2000   61.0000  bottom
+U16       MCP14A0304xMNY  WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm    73.7500   -81.2500  -120.0000  bottom
+## End
