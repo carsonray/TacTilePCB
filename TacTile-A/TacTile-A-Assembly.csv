@@ -1,2 +1,2 @@
-"#","Reference","Qty","Value","Footprint","DNP"
-"1","U1, U2, U3, U4, U5, U6, U7, U8, U9, U10, U11, U12, U13, U14, U15, U16","16","MCP14A0304xMNY","Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm",""
+#,Designator,Qty,Value,Footprint,DNP
+1,"U1, U2, U3, U4, U5, U6, U7, U8, U9, U10, U11, U12, U13, U14, U15, U16",16,MCP14A0304T-E/MNY,Package_DFN_QFN:WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm,
