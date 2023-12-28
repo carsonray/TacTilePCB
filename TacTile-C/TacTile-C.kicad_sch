@@ -776,6 +776,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3a82e824-493c-4bd1-897d-c6b18ec3d68b)
   )
+  (label "VCC" (at 196.85 243.84 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3cac2c67-4a38-4faf-8df9-0c95d65781e2)
+  )
   (label "LS8" (at 22.86 137.16 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 3fb3430c-937e-47aa-8674-ee0322d63bba)
@@ -2328,6 +2332,31 @@
       (project "TacTile-middle"
         (path "/6cdb1fea-4f1d-4c10-a0a2-74a17332f490"
           (reference "J3") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "TacTile:Jumper_Connect") (at 196.85 243.84 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid a33593a3-b21c-4785-ab28-e50b96e3bc45)
+    (property "Reference" "JMP17" (at 198.12 247.015 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "~" (at 196.85 243.84 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "TacTile:Jumper_Connect" (at 196.85 243.84 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 196.85 243.84 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid dddfe491-0e6c-4c6b-9bb4-87a9b702e013))
+    (instances
+      (project "TacTile-C"
+        (path "/36638316-989c-497b-a9a8-6f6d869c219d"
+          (reference "JMP17") (unit 1)
         )
       )
     )
