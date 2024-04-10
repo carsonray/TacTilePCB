@@ -787,20 +787,20 @@
       )
     )
   )
-  (symbol "8_coil_solenoid" (in_bom yes) (on_board yes)
+  (symbol "8_coil_stack" (in_bom yes) (on_board yes)
     (property "Reference" "L" (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "8_coil_solenoid" (at 0 -19.685 0)
+    (property "Value" "8_coil_stack" (at 0 -19.685 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "TacTile:8_coil_solenoid" (at 0 -21.59 0)
+    (property "Footprint" "TacTile:8_coil_stack" (at 0 -21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "8_coil_solenoid_0_1"
+    (symbol "8_coil_stack_0_1"
       (arc (start 0 -17.7524) (mid -0.635 -17.1444) (end -1.27 -17.7524)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -866,7 +866,7 @@
         (fill (type none))
       )
     )
-    (symbol "8_coil_solenoid_1_1"
+    (symbol "8_coil_stack_1_1"
       (pin passive line (at -1.27 0 180) (length 2.54)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))

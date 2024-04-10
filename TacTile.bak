@@ -409,7 +409,7 @@
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "ki_keywords" "TTL Nor2" (at 0 0 0)
+    (property "ki_keywords" "TTL or2" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_description" "quad 2-input OR gate" (at 0 0 0)
